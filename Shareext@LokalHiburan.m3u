@@ -1028,6 +1028,72 @@ https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", ANTV
+http://103.66.62.83:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", MNCTV HD
+http://103.66.62.83:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", GTV 
+http://103.66.62.83:8000/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", INEWS
+http://103.66.62.83:8000/play/a00d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", TRANSTV HD
+http://103.66.62.83:8000/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", TRANS 7
+http://103.66.62.83:8000/play/a00u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", VTV
+http://103.66.62.83:8000/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", TVONE
+http://103.66.62.83:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", KOMPAS TV
+http://103.66.62.83:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", INDOSIAR
+http://103.66.62.83:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", SCTV HD
+http://103.66.62.83:8000/play/a00z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", MOJI(p)
+http://103.66.62.83:8000/play/a00i/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", MENTARI TV
+http://103.66.62.83:8000/play/a00h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", METRO TV
+http://103.66.62.83:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", CNN
+http://103.66.62.83:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", MDTV
+http://103.66.62.83:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", RTV
+http://103.66.62.83:8000/play/a00k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", TVRI SPORTS
+http://103.66.62.83:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", TVRI WORLD
+http://103.66.62.83:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", TVRI NASIONAL
+http://103.66.62.83:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", Jambi TV
+http://103.66.62.83:8000/play/a00m/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS",DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4006,7 +4072,7 @@ https://nl.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ JP 馃嚡馃嚨",WOWOW Prime
 https://nl.utako.moe/wprime/index.m3u8
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="JP 馃嚡馃嚨",WOWOW Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ JP 馃嚡馃嚨",WOWOW Cinema
 https://nl.utako.moe/wcinema/index.m3u8
 #http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/D8WHHTG/shareext-tvku-0nline.jpg" group-title="SHAREEXT@ JP 馃嚡馃嚨",WOWOW Live
