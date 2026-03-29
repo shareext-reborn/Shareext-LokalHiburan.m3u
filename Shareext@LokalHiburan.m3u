@@ -203,6 +203,235 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/CMGv5BCF/trans-tv-id.png",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANSTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/qvRQ11Pv/trans-7-id.png",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/GmtPmfKR/ezgif-7a3f05b6eddb8b9c.png",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CNNINDONESIA/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/gjys36Lh/ezgif-7ae685bdab8a1811.png",TV ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVONE/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/44twY7gq/ezgif-6a5fadaf3ade2391.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-SCTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-INDOSIAR/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/DzxTt5C9/ezgif-7-56f3bf48d5.png",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-NET/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/MKdJcr01/rajawali-tv-id.png",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-RAJAWALITV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-RCTI/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-MNCTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-GLOBALTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/3NjfvngV/ezgif-389467c34311aaa0.png",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-KOMPASTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/WbQ67s7p/metro-tv-id.png",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-METROTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/RFswJm0R/bali-tv-id.png",BALI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-BALITV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/SRH8VGCJ/tvri-id.png",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVRI/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png",DAAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-DAAITV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/Fs1ScsDZ/ezgif-1-78f6f17e1e.png",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-BERITASATU/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eat_and_go_id.png",EAT & GO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/insert_id.png",!NSERT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-INSERT/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/musik-indonesia-id.png",MUSIK INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/rmcB6JMQ/ezgif-63cedb0a1d9add6a.png",KNOWLEDGE+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-KNOWLEDGE/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-plus-id-id.png",GOLF PLUS ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-GOLF/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaming-tv.png",GAMING TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-GAMINGTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fight-tv.png",FIGHT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-FIGHTSPORTS/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-tv.png",SPORTS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-SPORTSTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/9fNnV6js/cna-sg.png",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CNA/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/BvXGxcZ3/celestial-movies-hk.png",CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/6Q7D7Wz3/thrill-hk.png",THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-THRILL/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/dV5Y349G/ezgif-2cf4aa559688f23e.png",CINEMAWORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CINEMAWORLD/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-asia-cn.png",CCTV 4 ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CCTV4/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn.png",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CGTN/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cgtn_cn_documentary.png",CGTN DOCUMENTARY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CGTNDOC/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/YSRFhBRB/ezgif-3-f137a3918c.png",NHK WORLD JAPAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-NHKWORLD/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/9MMVxHp4/ezgif-6457788ed7f0a9.png",NHK WORLD PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-NHKPREMIUM/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/d1HyM5GY/arirang.png",ARIRANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ARIRANG/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVN/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/GtS2jh0j/tvnmovies.png",TVN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kbs_world_kr.png",KBS WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-KBSWORLD/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/bNWrDJ9q/axn-east-asia.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-AXN/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/corp/aa/al_jazeera_qa.png",ALJAZEERA ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ALJAZEERA/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/jqgmHygJ/ezgif-48a9aa9cda23e1f4.png",ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-ABCAUSTRALIA/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/deutsche_welle_tv_de.png",DW ENGLISH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-DWENGLISH/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/tJKzrRn2/ezgif-43179727fc7cce7b.png",EURONEWS.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-EURONEWS/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/kXFtqMQH/ezgif-67b147fe9146efb9.png",TV5 MONDE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-TV5MONDE/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/france24_fr.png",FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-FRANCE24/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV SOUTHEAST ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-FASHIONTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner-tv-us.png",WARNER BROS.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-WARNERTV/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/G2wSHkHK/ezgif-737614d035dfd997.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-HBO/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png",HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/PfMF5vhb/ezgif-767c5df2b247daf5.png",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax-asia-us.png",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/g0ft8QZm/ezgif-7fcea27e75a5aab2.png",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PLAYLIST || INDONESIA" tvg-logo="https://i.postimg.cc/zXJGwChc/ezgif-67daec0494f623a7.png",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", ANTV HD(main)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058862&extension=ts&play_token=XMOx1ovd3r
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", SCTV HD(main)
@@ -718,6 +947,74 @@ https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=665&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=665&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV"tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=870&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=870&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV"tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=778&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=778&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV"tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png",INEWS (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=5409&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=5409&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV"tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png",TVN (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=6362&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=6362&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV"tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rock-action-sg.png",ROCK ACTION (VD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://pipit.barjagaul.workers.dev/play.mpd?id=8121&type=drm
+https://pipit.barjagaul.workers.dev/play.mpd?id=8121&type=dash
+
 #EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -898,6 +1195,17 @@ https://ratu77.adptv.workers.dev/index.mpd?id=7150&type=dash
 #EXTVLCOPT:http-origin=https://www.vidio.com
 https://ratu77.adptv.workers.dev/index.mpd?id=12784&type=dash
 
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV" tvg-logo="https://i.postimg.cc/pdBP8nkd/ezgif-8520dcdbeeb04407.png",MAX EATS (INDI)
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV" tvg-logo="https://i.postimg.cc/c4d2g52Y/ezgif-89bcd41b153d08ab.png",MAX STREAK (INDI)
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_INDIHOME_TV" tvg-logo="https://i.postimg.cc/3w2dqR1d/ezgif-84cb6e8f15997207.png",MAX REELS (INDI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/useeprime-avc1_2500000=13-3293972000000000.mpd
+
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="HBO" group-title="SHAREEXT@ VIDIO_INDIHOME_TV" tvg-logo="https://iili.io/Ju79f8g.png",HBO (inditv)
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd 
@@ -1020,9 +1328,29 @@ https://cdn10jtedge.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
 
 
+#EXTINF:-1 group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", tvg-logo="https://i.postimg.cc/QxfkMMkH/ezgif-3b98d84df43d3531.png",OXYGEN TV(genx)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://oxygentv.id/
+#EXTVLCOPT:http-origin=https://oxygentv.id
+https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 
+#EXTINF:-1 group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/ktv_id.png",KTV (genx)
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=ktv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", MOJI TV
+#EXTINF:-1 group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", tvg-logo="https://i.postimg.cc/1XmPWnXm/ezgif-473fe9d06ac562ff.png",TVRI SPORT (genx)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"}
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs
+
+#EXTINF:-1 group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", tvg-logo="https://i.postimg.cc/9F0wJYZz/ezgif-337827f5b4f944b0.png",VTV (genx)
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
+https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@MPD || FIRST MEDIA CHANNELS", MOJI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
@@ -3379,6 +3707,59 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="a6b5f6130cc5" tvg-name="&TV HD" tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="SHAREEXT@ India ➾ Movie",&TV HD
+https://sm-monirul.top/Toffee/live.php?id=a6b5f6130cc5&e=.m3u8
+#EXTINF:-1 tvg-id="1d8f06362c1e" tvg-name="& Pictures HD" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="SHAREEXT@ India ➾ Movie",& Pictures HD
+https://sm-monirul.top/Toffee/live.php?id=1d8f06362c1e&e=.m3u8
+#EXTINF:-1 tvg-id="99cf56ce2888" tvg-name="TOFFEE Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png" group-title="SHAREEXT@ India ➾ Movie",TOFFEE Movies VIP
+https://sm-monirul.top/Toffee/live.php?id=99cf56ce2888&e=.m3u8
+#EXTINF:-1 tvg-id="b1ba8efdd99d" tvg-name="TOFFEE Dramas VIP" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="SHAREEXT@ India ➾ Movie",TOFFEE Dramas VIP
+https://sm-monirul.top/Toffee/live.php?id=b1ba8efdd99d&e=.m3u8
+#EXTINF:-1 tvg-id="899f6184acd9" tvg-name="Movie Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png" group-title="SHAREEXT@ India ➾ Movie",Movie Bangla
+https://sm-monirul.top/Toffee/live.php?id=899f6184acd9&e=.m3u8
+#EXTINF:-1 tvg-id="57bd9c2493c1" tvg-name="SONY YAY VIP" tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="SHAREEXT@ India ➾ Movie",SONY YAY VIP
+https://sm-monirul.top/Toffee/live.php?id=57bd9c2493c1&e=.m3u8
+#EXTINF:-1 tvg-id="106a66093e92" tvg-name="Zee Bangla VIP" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="SHAREEXT@ India ➾ Movie",Zee Bangla VIP
+https://sm-monirul.top/Toffee/live.php?id=106a66093e92&e=.m3u8
+#EXTINF:-1 tvg-id="dc488b1502f5" tvg-name="Zee Anmol" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png" group-title="SHAREEXT@ India ➾ Movie",Zee Anmol
+https://sm-monirul.top/Toffee/live.php?id=dc488b1502f5&e=.m3u8
+#EXTINF:-1 tvg-id="4effcf0f2452" tvg-name="Zing" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/DK8dd5YBrjBfS2_Ru22e/posters/a89a1e2e-677c-4a8a-9a66-dff5e0b921c8.png" group-title="SHAREEXT@ India ➾ Movie",Zing
+https://sm-monirul.top/Toffee/live.php?id=4effcf0f2452&e=.m3u8
+#EXTINF:-1 tvg-id="7e00fee81848" tvg-name="Sony Aat VIP" tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="SHAREEXT@ India ➾ Movie",Sony Aat VIP
+https://sm-monirul.top/Toffee/live.php?id=7e00fee81848&e=.m3u8
+#EXTINF:-1 tvg-id="243771d9592c" tvg-name="SONY ENTERTAINMENT TELEVISION HD VIP" tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="SHAREEXT@ India ➾ Movie",SONY ENTERTAINMENT TELEVISION HD VIP
+https://sm-monirul.top/Toffee/live.php?id=243771d9592c&e=.m3u8
+#EXTINF:-1 tvg-id="b7167fe646a4" tvg-name="SONY SAB HD VIP" tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="SHAREEXT@ India ➾ Movie",SONY SAB HD VIP
+https://sm-monirul.top/Toffee/live.php?id=b7167fe646a4&e=.m3u8
+#EXTINF:-1 tvg-id="9905083432a8" tvg-name="Zee TV HD" tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="SHAREEXT@ India ➾ Movie",Zee TV HD
+https://sm-monirul.top/Toffee/live.php?id=9905083432a8&e=.m3u8
+#EXTINF:-1 tvg-id="6a65854166f1" tvg-name="SONY MAX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="SHAREEXT@ India ➾ Movie",SONY MAX HD VIP
+https://sm-monirul.top/Toffee/live.php?id=6a65854166f1&e=.m3u8
+#EXTINF:-1 tvg-id="3c1cc31a847f" tvg-name="Zee Bangla Cinema" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/-C7MX5UBv9knK3AHdKOi/posters/b0f0bfe0-f1f3-48b3-83ce-203cd44cafe2.png" group-title="SHAREEXT@ India ➾ Movie",Zee Bangla Cinema
+https://sm-monirul.top/Toffee/live.php?id=3c1cc31a847f&e=.m3u8
+#EXTINF:-1 tvg-id="2ea95a9da2d7" tvg-name="Zee Bollywood" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/4818f95a-c64a-490f-b310-a49aec026d71.png" group-title="SHAREEXT@ India ➾ Movie",Zee Bollywood
+https://sm-monirul.top/Toffee/live.php?id=2ea95a9da2d7&e=.m3u8
+#EXTINF:-1 tvg-id="72a0803cf563" tvg-name="Zee Action" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/Pc3RD5YBtpl-Sbt7doxr/posters/d0f337ab-a7e6-4eed-bc7b-7d51fdc70a0f.png" group-title="SHAREEXT@ India ➾ Movie",Zee Action
+https://sm-monirul.top/Toffee/live.php?id=72a0803cf563&e=.m3u8
+#EXTINF:-1 tvg-id="b6192dbff21b" tvg-name="SONY MAX VIP" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="SHAREEXT@ India ➾ Movie",SONY MAX VIP
+https://sm-monirul.top/Toffee/live.php?id=b6192dbff21b&e=.m3u8
+#EXTINF:-1 tvg-id="ea02096b0fbc" tvg-name="SONY PIX HD VIP" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="SHAREEXT@ India ➾ Movie",SONY PIX HD VIP
+https://sm-monirul.top/Toffee/live.php?id=ea02096b0fbc&e=.m3u8
+#EXTINF:-1 tvg-id="c65460ba0d73" tvg-name="Zee Cafe" tvg-logo="https://assets-prod.services.toffeelive.com/f_webp,w_400,q_100/U3QEd5YBcqxnFHJBpYzc/posters/3442d493-0c71-44b9-b12f-8e600d5eab91.png" group-title="SHAREEXT@ India ➾ Movie",Zee Cafe
+https://sm-monirul.top/Toffee/live.php?id=c65460ba0d73&e=.m3u8
+#EXTINF:-1 tvg-id="cd113761e022" tvg-name="B4U Movies VIP" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="SHAREEXT@ India ➾ Movie",B4U Movies VIP
+https://sm-monirul.top/Toffee/live.php?id=cd113761e022&e=.m3u8
+#EXTINF:-1 tvg-id="420510be5c17" tvg-name="SONY MAX 2 VIP" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="SHAREEXT@ India ➾ Movie",SONY MAX 2 VIP
+https://sm-monirul.top/Toffee/live.php?id=420510be5c17&e=.m3u8
+#EXTINF:-1 tvg-id="3a4a0ceff620" tvg-name="Zee Bangla Cinema VIP" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="SHAREEXT@ India ➾ Movie",Zee Bangla Cinema VIP
+https://sm-monirul.top/Toffee/live.php?id=3a4a0ceff620&e=.m3u8
+#EXTINF:-1 tvg-id="d581dd66e556" tvg-name="Zee Cinema HD" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="SHAREEXT@ India ➾ Movie",Zee Cinema HD
+https://sm-monirul.top/Toffee/live.php?id=d581dd66e556&e=.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="SHAREEXT@ India ➾ Movie", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xY6c78/Picsart-24-02-25-18-58-20-258.png" group-title="SHAREEXT@ India ➾ Movie",Sony Kal HD
@@ -4230,6 +4611,102 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunk
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="SHAREEXT@THAiLandTv", Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PH: A2Z Channel 11" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e63eb0eb23fe856c15ad341dc31a3298.png" group-title="SHAREEXT@ TV || Philippines",PH: A2Z Channel 11
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276601
+#EXTINF:-1 tvg-id="" tvg-name="PH: ABS CBN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6dc9f619fd0473b5f58a3e58930e6bd3.png" group-title="SHAREEXT@ TV || Philippines",PH: ABS CBN
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144837
+#EXTINF:-1 tvg-id="" tvg-name="PH: ANC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3fa89a31358f97bba2dd61f63734bba0.png" group-title="SHAREEXT@ TV || Philippines",PH: ANC
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144833
+#EXTINF:-1 tvg-id="" tvg-name="PH: Animal Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/977e497d79d8efea35f180aa4f732b09.svg" group-title="SHAREEXT@ TV || Philippines",PH: Animal Planet
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144824
+#EXTINF:-1 tvg-id="" tvg-name="PH: Animax Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/6f994d0864737b77a93c0797eb8f9180.png" group-title="SHAREEXT@ TV || Philippines",PH: Animax Philippines
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144838
+#EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/5f4729e5cbd903399d4f58fbf7553f8b.jpg" group-title="SHAREEXT@ TV || Philippines",PH: Asian Food Network
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299960
+#EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/79163a3883ff4c56864552f4f799b120.png" group-title="SHAREEXT@ TV || Philippines",PH: AXN
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144831
+#EXTINF:-1 tvg-id="" tvg-name="PH: BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/c0b175ca682eddf69487eb1d8389e0d8.svg" group-title="SHAREEXT@ TV || Philippines",PH: BBC Earth
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308672
+#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" group-title="SHAREEXT@ TV || Philippines",PH: beIN Sports 1
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/282772
+#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 2" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ TV || Philippines",PH: beIN Sports 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/282773
+#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 3" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ TV || Philippines",PH: beIN Sports 3
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/266844
+#EXTINF:-1 tvg-id="" tvg-name="PH: Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bf74ed1331c9f4c7190a9e2a13881e2d.png" group-title="SHAREEXT@ TV || Philippines",PH: Bloomberg TV
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144834
+#EXTINF:-1 tvg-id="" tvg-name="PH: BuKo Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/17f8b620b5a1b26f3f11b3ca14013705.png" group-title="SHAREEXT@ TV || Philippines",PH: BuKo Channel
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299952
+#EXTINF:-1 tvg-id="" tvg-name="PH: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/a7e076dc55f6f28f063d81b51eeacedc.png" group-title="SHAREEXT@ TV || Philippines",PH: Cartoon Network
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144835
+#EXTINF:-1 tvg-id="" tvg-name="PH: Cine Mo!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/133884a64c6b5b9cb5cf313d11b4ac29.svg" group-title="SHAREEXT@ TV || Philippines",PH: Cine Mo!
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299956
+#EXTINF:-1 tvg-id="" tvg-name="PH: Cinema One Global" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/abf46081bda2ee5c8221b6ec7a850675.png" group-title="SHAREEXT@ TV || Philippines",PH: Cinema One Global
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299955
+#EXTINF:-1 tvg-id="" tvg-name="PH: Discovery Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/821d8306196e8b062b261cf8be4b9eaa.png" group-title="SHAREEXT@ TV || Philippines",PH: Discovery Asia
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144858
+#EXTINF:-1 tvg-id="" tvg-name="PH: GMA Life TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/ff00b1703c149f37c84fbe2d162075df.png" group-title="SHAREEXT@ TV || Philippines",PH: GMA Life TV
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144867
+#EXTINF:-1 tvg-id="" tvg-name="PH: GMA News TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/20fd546935c0ac5386dbc81309c5ef82.png" group-title="SHAREEXT@ TV || Philippines",PH: GMA News TV
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144859
+#EXTINF:-1 tvg-id="" tvg-name="PH: Great Commission TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/7056365d48133ed08a9a44cdb4059ae8.png" group-title="SHAREEXT@ TV || Philippines",PH: Great Commission TV
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/286742
+#EXTINF:-1 tvg-id="" tvg-name="PH: History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/25a947de7468f737681c69be85513c35.svg" group-title="SHAREEXT@ TV || Philippines",PH: History
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304249
+#EXTINF:-1 tvg-id="" tvg-name="PH: HITS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/ed443b244296a383cec03e00d8ff0d59.png" group-title="SHAREEXT@ TV || Philippines",PH: HITS
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144860
+#EXTINF:-1 tvg-id="" tvg-name="PH: HITS Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b5441d5267592cb28cda65639ec25d10.png" group-title="SHAREEXT@ TV || Philippines",PH: HITS Movies
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/285605
+#EXTINF:-1 tvg-id="" tvg-name="PH: Kapatid TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/7aac68a88cfef3f3561f05779704e077.png" group-title="SHAREEXT@ TV || Philippines",PH: Kapatid TV 5
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/171991
+#EXTINF:-1 tvg-id="" tvg-name="PH: KIX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/e5a2f150aa65bc36de50f90cc532f0db.png" group-title="SHAREEXT@ TV || Philippines",PH: KIX
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144852
+#EXTINF:-1 tvg-id="" tvg-name="PH: Knowledge Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/36b3f519082856af7537cb298f13c3f1.png" group-title="SHAREEXT@ TV || Philippines",PH: Knowledge Channel
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299942
+#EXTINF:-1 tvg-id="" tvg-name="PH: Lifetime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/0b9679d26965a50aeeac957d139d619c.png" group-title="SHAREEXT@ TV || Philippines",PH: Lifetime
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/147240
+#EXTINF:-1 tvg-id="" tvg-name="PH: Moonbug" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/0d8a170d88a7e620ca1e3554fbb8e679.png" group-title="SHAREEXT@ TV || Philippines",PH: Moonbug
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299958
+#EXTINF:-1 tvg-id="" tvg-name="PH: MTV Live" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ TV || Philippines",PH: MTV Live
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304354
+#EXTINF:-1 tvg-id="" tvg-name="PH: Nick Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/638b1d821ff28c444b3d9dfa622d1c62.png" group-title="SHAREEXT@ TV || Philippines",PH: Nick Junior
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144898
+#EXTINF:-1 tvg-id="" tvg-name="PH: nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1c7ab06cbf7585369cd9b05e358fa0cd.png" group-title="SHAREEXT@ TV || Philippines",PH: nickelodeon
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144870
+#EXTINF:-1 tvg-id="" tvg-name="PH: One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa4b132918cc8bfbd6ed83bbbaf05ace.png" group-title="SHAREEXT@ TV || Philippines",PH: One
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276603
+#EXTINF:-1 tvg-id="" tvg-name="PH: One News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/b0ab767d8d461e6dc1b58853ae134af9.png" group-title="SHAREEXT@ TV || Philippines",PH: One News
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299946
+#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/1a5a6455992a466b4c14a8b7ff1ebe11.png" group-title="SHAREEXT@ TV || Philippines",PH: One Sports
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299947
+#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/aa72ca0d8a5e61e9837c52901b14ee0e.png" group-title="SHAREEXT@ TV || Philippines",PH: One Sports +
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/290365
+#EXTINF:-1 tvg-id="" tvg-name="PH: PBA Rush" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7c7aeee2dbed0093c5c1c3c2bada1d8f.png" group-title="SHAREEXT@ TV || Philippines",PH: PBA Rush
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299950
+#EXTINF:-1 tvg-id="" tvg-name="PH: Premier Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/06863d46f1e6641d28f2bc9615cfec97.png" group-title="SHAREEXT@ TV || Philippines",PH: Premier Tennis
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276599
+#EXTINF:-1 tvg-id="" tvg-name="PH: PTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/f50190a49e78f82305afd37d1a657757.svg" group-title="SHAREEXT@ TV || Philippines",PH: PTV
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/193221
+#EXTINF:-1 tvg-id="" tvg-name="PH: Sari Sari" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b80884ea3fd2cc60d9d7fe0cbaeb194c.png" group-title="SHAREEXT@ TV || Philippines",PH: Sari Sari
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276602
+#EXTINF:-1 tvg-id="" tvg-name="PH: Tap Edge" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/8fcd2d946876de05e7a3fc9a14bc3e31.png" group-title="SHAREEXT@ TV || Philippines",PH: Tap Edge
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304251
+#EXTINF:-1 tvg-id="" tvg-name="PH: TAP Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a5fb7457f89a0ba8f978cfbcf777af83.png" group-title="SHAREEXT@ TV || Philippines",PH: TAP Sports
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299945
+#EXTINF:-1 tvg-id="" tvg-name="PH: TFC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/85c9b1c6344b0bcfa1fb76b21cb8a376.png" group-title="SHAREEXT@ TV || Philippines",PH: TFC
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/121795
+#EXTINF:-1 tvg-id="" tvg-name="PH: TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/da1bef7ad90b7af523080f303903ee17.png" group-title="SHAREEXT@ TV || Philippines",PH: TLC
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144900
+#EXTINF:-1 tvg-id="" tvg-name="PH: UAAP Varsity Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e11524ae8e1e56af300a50556f9e6d56.png" group-title="SHAREEXT@ TV || Philippines",PH: UAAP Varsity Channel
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299944
+#EXTINF:-1 tvg-id="" tvg-name="PH: Viva Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/39367655f3636dab5287864ea572de01.png" group-title="SHAREEXT@ TV || Philippines",PH: Viva Cinema
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276531
+#EXTINF:-1 tvg-id="" tvg-name="PH: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/050dfc679295d4887b15bacffd627f4d.png" group-title="SHAREEXT@ TV || Philippines",PH: Warner TV
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/170006
 
 
 
