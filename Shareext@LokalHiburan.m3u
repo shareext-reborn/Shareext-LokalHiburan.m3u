@@ -4004,6 +4004,92 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
 https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-logo="" group-title="SHAREEXT@SINGSPORE_Brunei_Station",Channel 5_mpd 
+https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=560e2a97335148708010f6abc6e01ff9:004327cdad8609155073663a7e404df6
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-logo="" group-title="SHAREEXT@SINGSPORE_Brunei_Station",Channel 8_mpd
+https://tglmp01.akamaized.net/out/v1/6043d36e1ffb4b52a959fb71b4bbcd31/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3769532992d643028eedc46cdde65929:03d5b8832a997377a032bc04c6d18add
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-logo="" group-title="SHAREEXT@SINGSPORE_Brunei_Station",Channel U_mpd 
+https://tglmp04.akamaized.net/out/v1/0ba219dbd030477784e4a8104bd9e827/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8f2493cd55453d917222c1a85212fd:07f5c76b976657fbdcc2085861f649bd
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-logo="" group-title="SHAREEXT@SINGSPORE_Brunei_Station",Suria_mpd 
+https://tglmp02.akamaized.net/out/v1/0fa7dd7d7b6447478f26db79ea7c5779/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb3e1afa8ae545f5a99d40baefd8a8d8:6432f742cd17eb5aedc3d68a3a61079c
+#EXTINF:-1 tvg-id="Vasantham" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-logo="" group-title="SHAREEXT@SINGSPORE_Brunei_Station",Vasantham_mpd 
+https://tglmp01.akamaized.net/out/v1/8605c1013e3148aa809c296dd76c3fa5/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="556893" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358834'&EntityType='Item'&EntityId='556893'&Width=350&Height=250" group-title="SHAREEXT@SINGSPORE_Brunei_Station",Kartoon Channel!_mpd
+https://d29ecfnk3jwkp9.cloudfront.net/out/v1/f246ce87793444d9bbbc56f244ec3c2c/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="556877" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358838'&EntityType='Item'&EntityId='556877'&Width=264&Height=250" group-title="SHAREEXT@SINGSPORE_Brunei_Station",TG Junior_mpd
+https://tglmp03.akamaized.net/out/v1/a3992c3d704443c991a8586e01a4cc1c/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="556894" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='9358842'&EntityType='Item'&EntityId='556894'&Width=304&Height=250" group-title="SHAREEXT@SINGSPORE_Brunei_Station",Action Hollywood Movies_mpd
+https://d29ecfnk3jwkp9.cloudfront.net/out/v1/e338860b57fe4c40bed6e9ca38896a78/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158965" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510630'&EntityType='Item'&EntityId='158965'&Width=193&Height=187" group-title="SHAREEXT@SINGSPORE_Brunei_Station",NOW 80s_mpd
+https://tglmp02.akamaized.net/out/v1/e9318eedbe1847f8924a3fcfb1b93648/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158964" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510620'&EntityType='Item'&EntityId='158964'&Width=193&Height=187" group-title="SHAREEXT@SINGSPORE_Brunei_Station",NOW 70s_mpd
+https://tglmp03.akamaized.net/out/v1/f904e7d47bd245efb58c55581e5acf71/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1  tvg-id="158963" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='7510610'&EntityType='Item'&EntityId='158963'&Width=193&Height=187" group-title="SHAREEXT@SINGSPORE_Brunei_Station",NOW Rock_mpd
+https://tglmp04.akamaized.net/out/v1/7c6aa1207e91478dbbce70d35e40b61b/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/DEGZtGq.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",meWATCH 1_mpd
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="oktolidays" tvg-logo="https://i.imgur.com/LIjBhc9.png" group-title="SHAREEXT@SINGSPORE_Brunei_Station",meWATCH 2_mpd
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"By5hGjg6LR49TY6hngFqcQ", "kid":"9RWBlMxAROaZ0N8Bdy8iEg" } ], "type":"temporary" }
+#EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 1_mpd (SGP)
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sub/8k2mdlSvVI/mGqa9Wg", "kid":"3rbITbTcRXi9qmHpZbNCTA" } ], "type":"temporary" }
+#EXTINF:-1 group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-id="" tvg-chno="" group-logo="https://speedtrademarket.com/live/logo/mediacorp_logo.png" tvg-logo="http://www.2456788.com/tvicon/spotv.png",SPORT 2_mpd (SGP)
+https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+
 #EXTINF:-1  group-title="SHAREEXT@SINGSPORE_Brunei_Station" tvg-logo="https://i.ibb.co.com/dbRJFB3/mlive1.png",M LIVE 1.mpd(ott nav) 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
@@ -4113,8 +4199,6 @@ http://69.30.246.194/live/cctv17.m3u8
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道", 白城新闻综合 [Geo-blocked]
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",Cctv14(movie)
-http://8.138.7.223/tv/lotustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",東森超視美洲台
 http://38.64.72.148:80/hls/modn/list/2013/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",東森美洲衛視
