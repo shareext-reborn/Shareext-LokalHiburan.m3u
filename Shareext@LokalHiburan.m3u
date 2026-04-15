@@ -4072,25 +4072,41 @@ https://d2kziuzkf9oizb.cloudfront.net/rd005/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 1 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-1-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 1 (live)
 http://69.30.246.194/live/cctv1.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 4 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-2-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 2 (live)
+http://69.30.245.50/live/cctv2.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-3-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 3 (live)
+http://69.30.245.50/live/cctv3.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 4 (live)
 http://69.30.246.194/live/cctv4.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 5+ (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 5 (live)
+http://69.30.245.50/live/cctv5.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 5+ (live)
 http://69.30.246.194/live/cctv5p.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 11 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-6-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 6 (live)
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-7-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 7 (live)
+http://69.30.245.50/live/cctv7.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-8-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 8 (live)
+http://69.30.245.50/live/cctv8.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-9-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 9 (live)
+http://69.30.245.50/live/cctv9.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-10-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 10 (live)
+http://69.30.245.50/live/cctv10.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-11-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 11 (live)
 http://69.30.246.194/live/cctv11.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 12 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-12-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 12 (live)
 http://69.30.246.194/live/cctv12.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 13 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-13-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 13 (live)
 http://69.30.246.194/live/cctv13.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 14 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-14-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 14 (live)
 http://69.30.246.194/live/cctv14.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 15 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-15-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 15 (live)
 http://69.30.246.194/live/cctv15.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 16 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-16-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 16 (live)
 http://69.30.246.194/live/cctv16.m3u8
-#EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 17 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-17-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 17 (live)
 http://69.30.246.194/live/cctv17.m3u8
 
 #EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/AsWLf8S.png" group-title="SHAREEXT@CHINA_STATION/央视频道", TDM Sports (720p)
@@ -4146,42 +4162,6 @@ http://125.227.210.55:8215/VideoInput/play.ts
 http://125.227.210.55:8172/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/1TPqLk1/shareext-benderachinataipeikorjan.jpg" group-title="SHAREEXT@CHINA_STATION/央视频道",Ntv
 http://125.227.210.55:8173/VideoInput/play.ts
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 1 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 2 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 3 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 4 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 5 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv5p (bk.1)
-
-#EXTINF:-1 tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 6 (bk.1)
-
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 7 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 8 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 9 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 10 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 11 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 12 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 13 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 14 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 15 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 16 (bk.1)
-
-#EXTINF:-1 tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="SHAREEXT@CHINA_STATION/央视频道",cctv 17 (bk.1)
 
 #EXTINF:-1 tvg-name="山东教育" tvg-id="山东教育" tvg-logo="https://livecdn.zbds.top/logo/山东教育.png" group-title="SHAREEXT@CHINA_STATION/央视频道", 山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
