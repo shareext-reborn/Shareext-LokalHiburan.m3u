@@ -4164,7 +4164,7 @@ http://69.30.246.194/live/cctv1.m3u8
 http://69.30.245.50/live/cctv2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-3-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 3 (live)
 http://69.30.245.50/live/cctv3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 4 (live)
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-1-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 4 (live)
 http://69.30.246.194/live/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 5 (live)
 http://69.30.245.50/live/cctv5.m3u8
@@ -4255,7 +4255,7 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnjs
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hngg
 #EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan-city-cn.png",HUNAN CITY
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnds
-#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/4Nb9fcWV/ezgif-703edcd1f22d7012.png",HUNAN MOVIES
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan-city-cn.png",HUNAN MOVIES
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hndy
 #EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hunan-entertainment-cn.png",HUNAN ENTERTAINMENT
 ##http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hnyl
@@ -4293,7 +4293,7 @@ http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 #EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-educational-science-and-plays-cn.png",ZHEJIANG EDUCATIONAL SCIENCE & PLAY
 http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
-#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/MHPKNQWJ/ezgif-7dada379ec06f91c.png",ZHEJIANG TV 4K
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-educational-science-and-plays-cn.png",ZHEJIANG TV 4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-peoples-livelihood-and-leisure-cn.png",ZHEJIANG PEOPLE'S LIVELIHOOD & LEISURE 
 http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
@@ -4323,7 +4323,7 @@ http://114.242.62.109:888/hls/18/index.m3u8
 http://114.242.62.109:888/hls/20/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-finance-cn.png",BRTV FINANCE
 http://114.242.62.109:888/hls/21/index.m3u8
-#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/RZRnzGWy/ezgif-6d3cc6fb631947ec.png",BRTV SPORTS LEISURE
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-finance-cn.png",BRTV SPORTS LEISURE
 http://114.242.62.109:888/hls/22/index.m3u8
 #EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-ilife-cn.png",BRTV ILIFE
 http://114.242.62.109:888/hls/23/index.m3u8
@@ -4349,9 +4349,9 @@ http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 http://107.150.60.122/live/xzws.m3u8 
 #EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/guangdong_cn_satellite.png",GUANGDONG SATELLITE TV
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
-#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/kXCp1XK4/ezgif-3cd1f23cdeed6969.png",GUANGDONG TV 4K
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-finance-cn.png",GUANGDONG TV 4K
 http://115.29.208.41:34567/gd.php?id=2567
-#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://i.postimg.cc/wjJ3smz8/ezgif-4ba9090f68ef66fc.png",GUANGDONG 4K ULTRA HD
+#EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/brtv-finance-cn.png",GUANGDONG 4K ULTRA HD
 http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 #EXTINF:-1 group-title="SHAREEXT@CHINA_STATION/央视频道" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhujiang-tv-cn.png",GUANGDONG PEARL RIVER
 http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
