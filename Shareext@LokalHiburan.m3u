@@ -5,6 +5,34 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI (mpd)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+https://fta4-cdn-flr.visionplus.id/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV (mpd)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://fta4-cdn-flr.visionplus.id/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV (mpd)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+
+#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png",INEWS (mpd)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
+https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+
 #EXTINF:-1 tvg-id="Indosiar.id" group-title="Shareext@LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1280px-Indosiar_2015.svg.png",•Indosiar HD
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -60,14 +88,6 @@ http://iptv.kilas7.com:80/kaukia/asdfrewq/16
 #EXTINF:-1 tvg-id="" tvg-name="PBTV" tvg-logo="https://tv.cic.net.id/uploads/PB_TV.png" group-title="Shareext@LOKAL_ID",PBTV (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/17
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Shareext@LOKAL_ID", RCTI_+(sdi)
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Shareext@LOKAL_ID", MNCTV_+(sdi)
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/gtv.png" group-title="Shareext@LOKAL_ID", GTV_+(sdi)
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="Shareext@LOKAL_ID", INEWS_+(sdi)
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1  group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV(stream)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
