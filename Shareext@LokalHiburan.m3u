@@ -1222,12 +1222,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="SHAREEXT@ VIDIO_INDIHOME_TV",SIN PO TV
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="FunPlanet.id" tvg-name="Fun Planet" tvg-logo="https://mimipipi22.github.io/logo/kids/funplanet.jpg" group-title="SHAREEXT@ VIDIO_INDIHOME_TV",FUN PLANET
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="My.Kidz.id" tvg-name="My Kidz" tvg-logo="https://mimipipi22.github.io/logo/kids/mykidz.jpg" group-title="SHAREEXT@ VIDIO_INDIHOME_TV",MY KIDZ
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
@@ -2594,76 +2588,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBios
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mimipipi22.github.io/logo/movies/imc.jpg" group-title="SHAREEXT@ MOVIES",IMC (vs+)
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: ETV BIOSKOP 01
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298526
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: ETV BIOSKOP 02
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298513
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: ETV BIOSKOP 03
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298514
-#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: ETV BIOSKOP 04
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298529
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: HBO
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306484
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="SHAREEXT@ MOVIES",ID: HBO 1080
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/197972
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: HBO Family
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306485
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="SHAREEXT@ MOVIES",ID: HBO Family 1080
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/197055
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: HBO Hits
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306486
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="SHAREEXT@ MOVIES",ID: HBO Hits 1080
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/196480
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: HBO Signature
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/306483
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="SHAREEXT@ MOVIES",ID: HBO Signature 1080
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/221948
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="SHAREEXT@ MOVIES",ID: Cinemax
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/197964
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="SHAREEXT@ MOVIES",ID: Citra Drama
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/264748
-#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: FLIK
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165095
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="SHAREEXT@ MOVIES",ID: Galaxy
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/264773
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="SHAREEXT@ MOVIES",ID: Galaxy Premium
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/264774
-#EXTINF:-1 tvg-id="" tvg-name="ID: CCM" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="SHAREEXT@ MOVIES",ID: CCM
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165103
-#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="SHAREEXT@ MOVIES",ID: Celestial Movies
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165065
-#EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="SHAREEXT@ MOVIES",ID: Chinese Drama
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298516
-#EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="SHAREEXT@ MOVIES",ID: CinemaWorld
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165082
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="SHAREEXT@ MOVIES",ID: Hits
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165085
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="SHAREEXT@ MOVIES",ID: Hits Movies
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/221947
-#EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="SHAREEXT@ MOVIES",ID: IMC
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/264769
-#EXTINF:-1 tvg-id="" tvg-name="ID: K+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="SHAREEXT@ MOVIES",ID: K+
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/197969
-#EXTINF:-1 tvg-id="" tvg-name="ID: One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="SHAREEXT@ MOVIES",ID: One
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165077
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="SHAREEXT@ MOVIES",ID: TVN
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144886
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="SHAREEXT@ MOVIES",ID: TVN Movies
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157596
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="SHAREEXT@ MOVIES",ID: Rock Entertaiment
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298565
-#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="SHAREEXT@ MOVIES",ID: Thrill
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157580
-#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="SHAREEXT@ MOVIES",ID: Zee Bioskop
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157584
-#EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="SHAREEXT@ MOVIES",ID: AXN
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165079
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="SHAREEXT@ MOVIES",ID: Bioskop Indonesia
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/264801
-#EXTINF:-1 tvg-id="" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="SHAREEXT@ MOVIES",ID: Warner TV
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/157594
-
-
 #EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-ou-mun-mo.png",TDM AOMEN
 http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
 #EXTINF:-1 group-title="SHAREEXT@ MOVIES" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tdm-macau-satellite-mo.png",TDM MACAU SATELLITE
@@ -3423,8 +3347,10 @@ https://o11.163189.xyz/stream/live/aod/
 http://iptv.kilas7.com:80/kaukia/asdfrewq/24
 #EXTINF:-1 tvg-id="" tvg-name="TV 2 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV2_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 2 (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/25
-#EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 3 (php)
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 3 (vip)
 http://vipapyenhmw.top:8080/live/VIP01881758874935836/b8b40c183edb/34537.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV3.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 3 (pro)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163923.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV 7 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV7_MY.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 7 (K7)
 http://iptv.kilas7.com:80/kaukia/asdfrewq/27
 #EXTINF:-1 tvg-id="" tvg-name="TV 8 MALAYSIA" tvg-logo="https://tv.cic.net.id/uploads/TV8.png" group-title="SHAREEXT@Television/MY/ASTRO",TV 8 (K7)
@@ -3731,138 +3657,6 @@ https://live.iill.top/huya/23865142
 
 
 
-#EXTINF:-1 tvg-id="C2414.299.ersatztv.org" tvg-name="Bruce Lee" tvg-logo="https://i.imgur.com/t6SDfDx.png" group-title="SHAREEXT@ 24/7 | MOVIES",Bruce Lee
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252315
-#EXTINF:-1 tvg-id="C2422.298.ersatztv.org" tvg-name="Jackie Chan" tvg-logo="https://i.imgur.com/5xXe5Ie.png" group-title="SHAREEXT@ 24/7 | MOVIES",Jackie Chan
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252354
-#EXTINF:-1 tvg-id="C2534.302.ersatztv.org" tvg-name="Marvel Cinematic Universe" tvg-logo="https://i.imgur.com/jkB9qS0.png" group-title="SHAREEXT@ 24/7 | MOVIES",Marvel Cinematic Universe
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252376
-#EXTINF:-1 tvg-id="C2430.297.ersatztv.org" tvg-name="Liam Neeson" tvg-logo="https://i.imgur.com/CMitbPQ.png" group-title="SHAREEXT@ 24/7 | MOVIES",Liam Neeson
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252370
-#EXTINF:-1 tvg-id="C2450.299.ersatztv.org" tvg-name="Bourne Movies" tvg-logo="https://i.imgur.com/vg5c3iq.png" group-title="SHAREEXT@ 24/7 | MOVIES",Bourne Movies
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252313
-#EXTINF:-1 tvg-id="C2411.296.ersatztv.org" tvg-name="Batman Movies" tvg-logo="https://i.imgur.com/zWBnhiQ.png" group-title="SHAREEXT@ 24/7 | MOVIES",Batman Movies
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252310
-#EXTINF:-1 tvg-id="C2401.295.ersatztv.org" tvg-name="Bad Boys" tvg-logo="https://i.imgur.com/HhkQZEp.png" group-title="SHAREEXT@ 24/7 | MOVIES",Bad Boys
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252308
-#EXTINF:-1 tvg-id="C2407.301.ersatztv.org" tvg-name="Arnold Schwarzenegger" tvg-logo="https://i.imgur.com/760Y0BZ.png" group-title="SHAREEXT@ 24/7 | MOVIES",Arnold Schwarzenegger
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252305
-#EXTINF:-1 tvg-id="C2406.300.ersatztv.org" tvg-name="Alien" tvg-logo="https://i.imgur.com/tV2Sy8f.png" group-title="SHAREEXT@ 24/7 | MOVIES",Alien
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252302
-#EXTINF:-1 tvg-id="C2404.298.ersatztv.org" tvg-name="Adam Sandler" tvg-logo="https://i.imgur.com/jaiHPcM.png" group-title="SHAREEXT@ 24/7 | MOVIES",Adam Sandler
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252300
-#EXTINF:-1 tvg-id="C2403.297.ersatztv.org" tvg-name="A Nightmare On Elm Street" tvg-logo="https://i.imgur.com/o0c1PKw.png" group-title="SHAREEXT@ 24/7 | MOVIES",A Nightmare On Elm Street
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252298
-#EXTINF:-1 tvg-id="C2483.305.ersatztv.org" tvg-name="Thor" tvg-logo="https://i.imgur.com/snzdFoh.png" group-title="SHAREEXT@ 24/7 | MOVIES",Thor
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252443
-#EXTINF:-1 tvg-id="C2490.303.ersatztv.org" tvg-name="The Terminator" tvg-logo="https://i.imgur.com/gSOS6sH.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Terminator
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252441
-#EXTINF:-1 tvg-id="C2488.310.ersatztv.org" tvg-name="The Texas Chainsaw Massacre" tvg-logo="https://i.imgur.com/GkwddPc.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Texas Chainsaw Massacre
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252442
-#EXTINF:-1 tvg-id="C1155.300.ersatztv.org" tvg-name="The Mandalorian" tvg-logo="https://i.imgur.com/kvWKjj9.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Mandalorian
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252793
-#EXTINF:-1 tvg-id="C2493.306.ersatztv.org" tvg-name="The Matrix" tvg-logo="https://i.imgur.com/yFs8OOC.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Matrix
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252437
-#EXTINF:-1 tvg-id="C2500.295.ersatztv.org" tvg-name="The Lord Of The Rings" tvg-logo="https://i.imgur.com/cZPOlb2.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Lord Of The Rings
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252435
-#EXTINF:-1 tvg-id="C2503.298.ersatztv.org" tvg-name="The Hobbit" tvg-logo="https://i.imgur.com/Y9weEeG.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Hobbit
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252431
-#EXTINF:-1 tvg-id="C4040.296.ersatztv.org" tvg-name="The Legend Of Korra" tvg-logo="https://i.imgur.com/2aV50nM.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Legend Of Korra
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252268
-#EXTINF:-1 tvg-id="C2501.296.ersatztv.org" tvg-name="The Lego Movies" tvg-logo="https://i.imgur.com/fjONNlA.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Lego Movies
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252434
-#EXTINF:-1 tvg-id="C2502.297.ersatztv.org" tvg-name="The Karate Kid" tvg-logo="https://i.imgur.com/8s6G1gg.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Karate Kid
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252432
-#EXTINF:-1 tvg-id="C2506.301.ersatztv.org" tvg-name="The Dark Knight" tvg-logo="https://i.imgur.com/V48U7Zw.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Dark Knight
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252428
-#EXTINF:-1 tvg-id="C2507.302.ersatztv.org" tvg-name="The Conjuring" tvg-logo="https://i.imgur.com/9eyvWAp.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Conjuring
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252427
-#EXTINF:-1 tvg-id="C2508.303.ersatztv.org" tvg-name="The Chronicles Of Narnia" tvg-logo="https://i.imgur.com/ZtNEbEg.png" group-title="SHAREEXT@ 24/7 | MOVIES",The Chronicles Of Narnia
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252426
-#EXTINF:-1 tvg-id="C2509.304.ersatztv.org" tvg-name="Teenage Mutant Ninja Turtles Movies" tvg-logo="https://i.imgur.com/rmtGeAW.png" group-title="SHAREEXT@ 24/7 | MOVIES",Teenage Mutant Ninja Turtles Movies
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252425
-#EXTINF:-1 tvg-id="C2518.304.ersatztv.org" tvg-name="John Wick" tvg-logo="https://i.imgur.com/5MSeysh.png" group-title="SHAREEXT@ 24/7 | MOVIES",John Wick
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252361
-#EXTINF:-1 tvg-id="C2511.297.ersatztv.org" tvg-name="Taken" tvg-logo="https://i.imgur.com/cJEKGYu.png" group-title="SHAREEXT@ 24/7 | MOVIES",Taken
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252424
-#EXTINF:-1 tvg-id="C2444.302.ersatztv.org" tvg-name="Sylvester Stallone" tvg-logo="https://i.imgur.com/3NGzBiX.png" group-title="SHAREEXT@ 24/7 | MOVIES",Sylvester Stallone
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252423
-#EXTINF:-1 tvg-id="C2513.299.ersatztv.org" tvg-name="Superman" tvg-logo="https://i.imgur.com/d6DgAb8.png" group-title="SHAREEXT@ 24/7 | MOVIES",Superman
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252422
-#EXTINF:-1 tvg-id="C2442.300.ersatztv.org" tvg-name="Steven Seagal" tvg-logo="https://i.imgur.com/SPRaawM.png" group-title="SHAREEXT@ 24/7 | MOVIES",Steven Seagal
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252420
-#EXTINF:-1 tvg-id="C2528.305.ersatztv.org" tvg-name="Star Trek Movies" tvg-logo="https://i.imgur.com/1UtqZ9a.png" group-title="SHAREEXT@ 24/7 | MOVIES",Star Trek Movies
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252417
-#EXTINF:-1 tvg-id="C2529.306.ersatztv.org" tvg-name="Spider-Man Movies" tvg-logo="https://i.imgur.com/pVoNluu.png" group-title="SHAREEXT@ 24/7 | MOVIES",Spider-Man Movies
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252416
-#EXTINF:-1 tvg-id="C2531.299.ersatztv.org" tvg-name="Shrek" tvg-logo="https://i.imgur.com/GMhigWD.png" group-title="SHAREEXT@ 24/7 | MOVIES",Shrek
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252414
-#EXTINF:-1 tvg-id="C2522.299.ersatztv.org" tvg-name="Scream" tvg-logo="https://i.imgur.com/dnQulhh.png" group-title="SHAREEXT@ 24/7 | MOVIES",Scream
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252413
-#EXTINF:-1 tvg-id="C2495.308.ersatztv.org" tvg-name="Saw" tvg-logo="https://i.imgur.com/2I9dpto.png" group-title="SHAREEXT@ 24/7 | MOVIES",Saw
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252411
-#EXTINF:-1 tvg-id="C2441.299.ersatztv.org" tvg-name="Sandra Bullock" tvg-logo="https://i.imgur.com/Pz2MTsZ.png" group-title="SHAREEXT@ 24/7 | MOVIES",Sandra Bullock
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252410
-#EXTINF:-1 tvg-id="C2440.298.ersatztv.org" tvg-name="Samuel L Jackson" tvg-logo="https://i.imgur.com/O50S4BG.png" group-title="SHAREEXT@ 24/7 | MOVIES",Samuel L Jackson
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252409
-#EXTINF:-1 tvg-id="C2555.305.ersatztv.org" tvg-name="Rush Hour" tvg-logo="https://i.imgur.com/8mP3yyX.png" group-title="SHAREEXT@ 24/7 | MOVIES",Rush Hour
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252408
-#EXTINF:-1 tvg-id="C2554.304.ersatztv.org" tvg-name="Rocky" tvg-logo="https://i.imgur.com/PXyGvGF.png" group-title="SHAREEXT@ 24/7 | MOVIES",Rocky
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252407
-#EXTINF:-1 tvg-id="C2553.303." tvg-name="Robocop"ersatztv.org tvg-logo="https://i.imgur.com/tbHLuPH.png" group-title="SHAREEXT@ 24/7 | MOVIES",Robocop
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252406
-#EXTINF:-1 tvg-id="C2552.302.ersatztv.org" tvg-name="Resident Evil" tvg-logo="https://i.imgur.com/nsTeH3Z.png" group-title="SHAREEXT@ 24/7 | MOVIES",Resident Evil
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252404
-#EXTINF:-1 tvg-id="C2551.301.ersatztv.org" tvg-name="Rambo" tvg-logo="https://i.imgur.com/Qh8EUol.png" group-title="SHAREEXT@ 24/7 | MOVIES",Rambo
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252403
-#EXTINF:-1 tvg-id="C2549.308.ersatztv.org" tvg-name="Predator" tvg-logo="https://i.imgur.com/wOHWzuZ.png" group-title="SHAREEXT@ 24/7 | MOVIES",Predator
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252399
-#EXTINF:-1 tvg-id="C2547.306.ersatztv.org" tvg-name="Planet Of The Apes Movies" tvg-logo="https://i.imgur.com/YjrUiXo.png" group-title="SHAREEXT@ 24/7 | MOVIES",Planet Of The Apes Movies
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252395
-#EXTINF:-1 tvg-id="C2544.303.ersatztv.org" tvg-name="Pirates of the Caribbean" tvg-logo="https://i.imgur.com/KR7sfji.png" group-title="SHAREEXT@ 24/7 | MOVIES",Pirates of the Caribbean
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252392
-#EXTINF:-1 tvg-id="C2438.305.ersatztv.org" tvg-name="Patrick Swayze" tvg-logo="https://i.imgur.com/cpQC2QC.png" group-title="SHAREEXT@ 24/7 | MOVIES",Patrick Swayze
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252391
-#EXTINF:-1 tvg-id="C2540.299.ersatztv.org" tvg-name="Night at the Museum" tvg-logo="https://i.imgur.com/OnljlSy.png" group-title="SHAREEXT@ 24/7 | MOVIES",Night at the Museum
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252386
-#EXTINF:-1 tvg-id="C2538.306.ersatztv.org" tvg-name="Mortal Kombat" tvg-logo="https://i.imgur.com/NqCuwj2.png" group-title="SHAREEXT@ 24/7 | MOVIES",Mortal Kombat
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252384
-#EXTINF:-1 tvg-id="C2537.305.ersatztv.org" tvg-name="Mission Impossible Movies" tvg-logo="https://i.imgur.com/KJmzLPV.png" group-title="SHAREEXT@ 24/7 | MOVIES",Mission Impossible Movies
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252382
-#EXTINF:-1 tvg-id="C2536.304.ersatztv.org" tvg-name="Men In Black" tvg-logo="https://i.imgur.com/0B7wNd9.png" group-title="SHAREEXT@ 24/7 | MOVIES",Men In Black
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252381
-#EXTINF:-1 tvg-id="C2434.301.ersatztv.org" tvg-name="Mel Gibson" tvg-logo="https://i.imgur.com/WmrrAVE.png" group-title="SHAREEXT@ 24/7 | MOVIES",Mel Gibson
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252379
-#EXTINF:-1 tvg-id="C2532.300.ersatztv.org" tvg-name="Madagascar" tvg-logo="https://i.imgur.com/JzYJCfD.png" group-title="SHAREEXT@ 24/7 | MOVIES",Madagascar
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252373
-#EXTINF:-1 tvg-id="C2515.301.ersatztv.org" tvg-name="Mad Max" tvg-logo="https://i.imgur.com/bYAU0sk.png" group-title="SHAREEXT@ 24/7 | MOVIES",Mad Max
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252372
-#EXTINF:-1 tvg-id="C2429.305.ersatztv.org" tvg-name="Leonardo DiCaprio" tvg-logo="https://i.imgur.com/KBWXAaY.png" group-title="SHAREEXT@ 24/7 | MOVIES",Leonardo DiCaprio
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252368
-#EXTINF:-1 tvg-id="C2525.302.ersatztv.org" tvg-name="Lethal Weapon" tvg-logo="https://i.imgur.com/JnpHxYN.png" group-title="SHAREEXT@ 24/7 | MOVIES",Lethal Weapon
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252369
-#EXTINF:-1 tvg-id="C2424.300.ersatztv.org" tvg-name="Jim Carrey" tvg-logo="https://i.imgur.com/MN6uSEL.png" group-title="SHAREEXT@ 24/7 | MOVIES",Jim Carrey
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/2523587
-#EXTINF:-1 tvg-id="C2423.299.ersatztv.org" tvg-name="Jean-Claude Van Damme" tvg-logo="https://i.imgur.com/aW9oIR1.png" group-title="SHAREEXT@ 24/7 | MOVIES",Jean-Claude Van Damme
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252357
-#EXTINF:-1 tvg-id="C2464.304.ersatztv.org" tvg-name="Jaws" tvg-logo="https://i.imgur.com/KxOpear.png" group-title="SHAREEXT@ 24/7 | MOVIES",Jaws
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252356
-#EXTINF:-1 tvg-id="C2466.306.ersatztv.org" tvg-name="James Bond" tvg-logo="https://i.imgur.com/CTjZY6n.png" group-title="SHAREEXT@ 24/7 | MOVIES",James Bond
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252355
-#EXTINF:-1 tvg-id="C2477.308.ersatztv.org" tvg-name="Iron Man" tvg-logo="https://i.imgur.com/M1OWfO0.png" group-title="SHAREEXT@ 24/7 | MOVIES",Iron Man
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252351
-#EXTINF:-1 tvg-id="C2486.308.ersatztv.org" tvg-name="Hunger Games" tvg-logo="https://i.imgur.com/3CgRtBW.png" group-title="SHAREEXT@ 24/7 | MOVIES",Hunger Games
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252347
-#EXTINF:-1 tvg-id="C2487.309.ersatztv.org" tvg-name="How To Train Your Dragon" tvg-logo="https://i.imgur.com/CTtiClS.png" group-title="SHAREEXT@ 24/7 | MOVIES",How To Train Your Dragon
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252346
-#EXTINF:-1 tvg-id="C2501.296.ersatztv.org" tvg-name="Horror" tvg-logo="https://i.imgur.com/LHguj5f.png" group-title="SHAREEXT@ 24/7 | MOVIES",Horror
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252343
-#EXTINF:-1 tvg-id="C2458.307.ersatztv.org" tvg-name="Friday The 13th" tvg-logo="https://i.imgur.com/jQKIUVr.png" group-title="SHAREEXT@ 24/7 | MOVIES",Friday The 13th
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252333
-#EXTINF:-1 tvg-id="C2470.301.ersatztv.org" tvg-name="Home Alone" tvg-logo="https://i.imgur.com/hJhj8Bl.png" group-title="SHAREEXT@ 24/7 | MOVIES",Home Alone
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252341
-#EXTINF:-1 tvg-id="C2496.309.ersatztv.org" tvg-name="Hellraiser" tvg-logo="https://i.imgur.com/yIhmCUK.png" group-title="SHAREEXT@ 24/7 | MOVIES",Hellraiser
-http://45.12.3.139:80/ymgiaxkw/5Hr5ZQuVfU/252340
 
 
 
@@ -5130,102 +4924,6 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunk
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="SHAREEXT@THAiLandTv", Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PH: A2Z Channel 11" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e63eb0eb23fe856c15ad341dc31a3298.png" group-title="SHAREEXT@ TV || Philippines",PH: A2Z Channel 11
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276601
-#EXTINF:-1 tvg-id="" tvg-name="PH: ABS CBN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/6dc9f619fd0473b5f58a3e58930e6bd3.png" group-title="SHAREEXT@ TV || Philippines",PH: ABS CBN
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144837
-#EXTINF:-1 tvg-id="" tvg-name="PH: ANC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/3fa89a31358f97bba2dd61f63734bba0.png" group-title="SHAREEXT@ TV || Philippines",PH: ANC
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144833
-#EXTINF:-1 tvg-id="" tvg-name="PH: Animal Planet" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/977e497d79d8efea35f180aa4f732b09.svg" group-title="SHAREEXT@ TV || Philippines",PH: Animal Planet
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144824
-#EXTINF:-1 tvg-id="" tvg-name="PH: Animax Philippines" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/6f994d0864737b77a93c0797eb8f9180.png" group-title="SHAREEXT@ TV || Philippines",PH: Animax Philippines
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144838
-#EXTINF:-1 tvg-id="" tvg-name="PH: Asian Food Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/5f4729e5cbd903399d4f58fbf7553f8b.jpg" group-title="SHAREEXT@ TV || Philippines",PH: Asian Food Network
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299960
-#EXTINF:-1 tvg-id="" tvg-name="PH: AXN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/79163a3883ff4c56864552f4f799b120.png" group-title="SHAREEXT@ TV || Philippines",PH: AXN
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144831
-#EXTINF:-1 tvg-id="" tvg-name="PH: BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-11/c0b175ca682eddf69487eb1d8389e0d8.svg" group-title="SHAREEXT@ TV || Philippines",PH: BBC Earth
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/308672
-#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43bbde4fc0ae1f73eaa8e63f96c0a975.png" group-title="SHAREEXT@ TV || Philippines",PH: beIN Sports 1
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/282772
-#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 2" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ TV || Philippines",PH: beIN Sports 2
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/282773
-#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 3" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ TV || Philippines",PH: beIN Sports 3
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/266844
-#EXTINF:-1 tvg-id="" tvg-name="PH: Bloomberg TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/bf74ed1331c9f4c7190a9e2a13881e2d.png" group-title="SHAREEXT@ TV || Philippines",PH: Bloomberg TV
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144834
-#EXTINF:-1 tvg-id="" tvg-name="PH: BuKo Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/17f8b620b5a1b26f3f11b3ca14013705.png" group-title="SHAREEXT@ TV || Philippines",PH: BuKo Channel
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299952
-#EXTINF:-1 tvg-id="" tvg-name="PH: Cartoon Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/a7e076dc55f6f28f063d81b51eeacedc.png" group-title="SHAREEXT@ TV || Philippines",PH: Cartoon Network
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144835
-#EXTINF:-1 tvg-id="" tvg-name="PH: Cine Mo!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/133884a64c6b5b9cb5cf313d11b4ac29.svg" group-title="SHAREEXT@ TV || Philippines",PH: Cine Mo!
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299956
-#EXTINF:-1 tvg-id="" tvg-name="PH: Cinema One Global" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/abf46081bda2ee5c8221b6ec7a850675.png" group-title="SHAREEXT@ TV || Philippines",PH: Cinema One Global
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299955
-#EXTINF:-1 tvg-id="" tvg-name="PH: Discovery Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/821d8306196e8b062b261cf8be4b9eaa.png" group-title="SHAREEXT@ TV || Philippines",PH: Discovery Asia
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144858
-#EXTINF:-1 tvg-id="" tvg-name="PH: GMA Life TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-01/ff00b1703c149f37c84fbe2d162075df.png" group-title="SHAREEXT@ TV || Philippines",PH: GMA Life TV
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144867
-#EXTINF:-1 tvg-id="" tvg-name="PH: GMA News TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/20fd546935c0ac5386dbc81309c5ef82.png" group-title="SHAREEXT@ TV || Philippines",PH: GMA News TV
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144859
-#EXTINF:-1 tvg-id="" tvg-name="PH: Great Commission TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/7056365d48133ed08a9a44cdb4059ae8.png" group-title="SHAREEXT@ TV || Philippines",PH: Great Commission TV
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/286742
-#EXTINF:-1 tvg-id="" tvg-name="PH: History" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/25a947de7468f737681c69be85513c35.svg" group-title="SHAREEXT@ TV || Philippines",PH: History
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304249
-#EXTINF:-1 tvg-id="" tvg-name="PH: HITS" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/ed443b244296a383cec03e00d8ff0d59.png" group-title="SHAREEXT@ TV || Philippines",PH: HITS
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144860
-#EXTINF:-1 tvg-id="" tvg-name="PH: HITS Movies" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b5441d5267592cb28cda65639ec25d10.png" group-title="SHAREEXT@ TV || Philippines",PH: HITS Movies
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/285605
-#EXTINF:-1 tvg-id="" tvg-name="PH: Kapatid TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/7aac68a88cfef3f3561f05779704e077.png" group-title="SHAREEXT@ TV || Philippines",PH: Kapatid TV 5
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/171991
-#EXTINF:-1 tvg-id="" tvg-name="PH: KIX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-12/e5a2f150aa65bc36de50f90cc532f0db.png" group-title="SHAREEXT@ TV || Philippines",PH: KIX
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144852
-#EXTINF:-1 tvg-id="" tvg-name="PH: Knowledge Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/36b3f519082856af7537cb298f13c3f1.png" group-title="SHAREEXT@ TV || Philippines",PH: Knowledge Channel
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299942
-#EXTINF:-1 tvg-id="" tvg-name="PH: Lifetime" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/0b9679d26965a50aeeac957d139d619c.png" group-title="SHAREEXT@ TV || Philippines",PH: Lifetime
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/147240
-#EXTINF:-1 tvg-id="" tvg-name="PH: Moonbug" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/0d8a170d88a7e620ca1e3554fbb8e679.png" group-title="SHAREEXT@ TV || Philippines",PH: Moonbug
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299958
-#EXTINF:-1 tvg-id="" tvg-name="PH: MTV Live" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" group-title="SHAREEXT@ TV || Philippines",PH: MTV Live
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304354
-#EXTINF:-1 tvg-id="" tvg-name="PH: Nick Junior" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/638b1d821ff28c444b3d9dfa622d1c62.png" group-title="SHAREEXT@ TV || Philippines",PH: Nick Junior
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144898
-#EXTINF:-1 tvg-id="" tvg-name="PH: nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1c7ab06cbf7585369cd9b05e358fa0cd.png" group-title="SHAREEXT@ TV || Philippines",PH: nickelodeon
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144870
-#EXTINF:-1 tvg-id="" tvg-name="PH: One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa4b132918cc8bfbd6ed83bbbaf05ace.png" group-title="SHAREEXT@ TV || Philippines",PH: One
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276603
-#EXTINF:-1 tvg-id="" tvg-name="PH: One News" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/b0ab767d8d461e6dc1b58853ae134af9.png" group-title="SHAREEXT@ TV || Philippines",PH: One News
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299946
-#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/1a5a6455992a466b4c14a8b7ff1ebe11.png" group-title="SHAREEXT@ TV || Philippines",PH: One Sports
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299947
-#EXTINF:-1 tvg-id="" tvg-name="PH: One Sports +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/aa72ca0d8a5e61e9837c52901b14ee0e.png" group-title="SHAREEXT@ TV || Philippines",PH: One Sports +
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/290365
-#EXTINF:-1 tvg-id="" tvg-name="PH: PBA Rush" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/7c7aeee2dbed0093c5c1c3c2bada1d8f.png" group-title="SHAREEXT@ TV || Philippines",PH: PBA Rush
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299950
-#EXTINF:-1 tvg-id="" tvg-name="PH: Premier Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/06863d46f1e6641d28f2bc9615cfec97.png" group-title="SHAREEXT@ TV || Philippines",PH: Premier Tennis
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276599
-#EXTINF:-1 tvg-id="" tvg-name="PH: PTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/f50190a49e78f82305afd37d1a657757.svg" group-title="SHAREEXT@ TV || Philippines",PH: PTV
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/193221
-#EXTINF:-1 tvg-id="" tvg-name="PH: Sari Sari" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b80884ea3fd2cc60d9d7fe0cbaeb194c.png" group-title="SHAREEXT@ TV || Philippines",PH: Sari Sari
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276602
-#EXTINF:-1 tvg-id="" tvg-name="PH: Tap Edge" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/8fcd2d946876de05e7a3fc9a14bc3e31.png" group-title="SHAREEXT@ TV || Philippines",PH: Tap Edge
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/304251
-#EXTINF:-1 tvg-id="" tvg-name="PH: TAP Sports" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/a5fb7457f89a0ba8f978cfbcf777af83.png" group-title="SHAREEXT@ TV || Philippines",PH: TAP Sports
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299945
-#EXTINF:-1 tvg-id="" tvg-name="PH: TFC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/85c9b1c6344b0bcfa1fb76b21cb8a376.png" group-title="SHAREEXT@ TV || Philippines",PH: TFC
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/121795
-#EXTINF:-1 tvg-id="" tvg-name="PH: TLC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/da1bef7ad90b7af523080f303903ee17.png" group-title="SHAREEXT@ TV || Philippines",PH: TLC
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/144900
-#EXTINF:-1 tvg-id="" tvg-name="PH: UAAP Varsity Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/e11524ae8e1e56af300a50556f9e6d56.png" group-title="SHAREEXT@ TV || Philippines",PH: UAAP Varsity Channel
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/299944
-#EXTINF:-1 tvg-id="" tvg-name="PH: Viva Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/39367655f3636dab5287864ea572de01.png" group-title="SHAREEXT@ TV || Philippines",PH: Viva Cinema
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/276531
-#EXTINF:-1 tvg-id="" tvg-name="PH: Warner TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/050dfc679295d4887b15bacffd627f4d.png" group-title="SHAREEXT@ TV || Philippines",PH: Warner TV
-http://aflaxtv.xyz:8080/F36591/3f1a2b5c/170006
 
 
 
