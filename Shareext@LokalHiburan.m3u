@@ -581,6 +581,14 @@ http://103.58.160.157:8278/720-TVNMOVIES/playlist.m3u8
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV", TVN-MOVIES (TRIAL)
 http://103.148.44.38:8000/play/a052/index.m3u8
 
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://i.postimg.cc/GtS2jh0j/tvnmovies.png",TVN MOVIES (vs+.) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",tvN Movies(main)
 http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058931&extension=ts&play_token=TVhVavZzCQ
 
@@ -591,6 +599,17 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:3A:93:FD&stream=1058931&ext
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="SHAREEXT@ DENZ TV",TVN (VS+) 
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd 
  
+#EXTINF:-1 tvg-id="101.astro" tvg-name="TVN HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvJuVz0Vh2rNO2lypfG57MVtVTw6E-EVvk14pgiFVLwnu2dUnXIxMFlB8AbBJpTAS94Gb18M4h3RydamQltV4nrTcG8fWNvmJ0eTsPfvbC0e0fGX0rF-V1ZHvc1AAp4CmNw.png" group-title="SHAREEXT@ DENZ TV",TVN HD (Ogie) 
+http://ogietv.biz.id:80/aqin/aqin168/1400.ts
+#EXTINF:-1 tvg-id="101.astro" tvg-name="Tvn Movies HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOQxg-Y5LD1E7ybrkrYtdLg4gkLVRAKUTXm4bvr_VNxKL7UXvF9fKdBmN13Y9hiBjP7HCr-emcZWIFSfbmjMQ_1At8iixxVsVQrXsEh2OY85byQiMUepwxzfdGRBpPeWBw.png" group-title="SHAREEXT@ DENZ TV",TvnMovies HD (Ogie) 
+http://ogietv.biz.id:80/aqin/aqin168/1401.ts
+#EXTINF:-1 tvg-id="101.astro" tvg-name="K PLUS FHD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvJuVz0Vh2rNO2lypfG57MVtVTw6E-EVvk14pgiFVLwnuUS8Bx45b77_CzMjt7Vp2pzAcMWjNz3y557PpttjFb0JkPZiPrl0yg6ynZzHzKtHgV4uPKlTf1X6BAl0ENu6h7A.png" group-title="SHAREEXT@ DENZ TV",K PLUS FHD (Ogie) 
+http://ogietv.biz.id:80/aqin/aqin168/301.ts
+#EXTINF:-1 tvg-id="100.astro" tvg-name="SGEM HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvJuVz0Vh2rNO2lypfG57MVtVTw6E-EVvk14pgiFVLwnun75GcZzoFqvbKx0Uai_T1U_sSYOUWXlHIFnEN_pec1j4rKipwQ7me_tB7WOaRgqUOPmoK3jzyh5lDxAjQzGSWg.png" group-title="SHAREEXT@ DENZ TV",SGEM HD (Ogie) 
+http://ogietv.biz.id:80/aqin/aqin168/1409.ts
+#EXTINF:-1 tvg-id="101.astro" tvg-name="SOne HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvJuVz0Vh2rNO2lypfG57MVtVTw6E-EVvk14pgiFVLwnuFFDLdny-rFwo0JD3ICXmzeHbieAfnbL2PwK9LP6pArux-caQjBW8oE-tYz2kHL2xm2A9dpp6k-VxPYouIZcX0A.png" group-title="SHAREEXT@ DENZ TV",SOne HD (Ogie) 
+http://ogietv.biz.id:80/aqin/aqin168/1411.ts
+
 #EXTINF:-1 tvg-logo="https://about.vidio.com/wp-content/uploads/2022/01/tvn.jpg" group-title="SHAREEXT@ DENZ TV", tvN (PLAY1)
 http://103.58.160.157:8278/720-TVN/playlist.m3u8
 
