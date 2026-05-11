@@ -4744,6 +4744,205 @@ https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playli
 
 
 
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/NfQnfsW8/ezgif-79a2f2e1a4a32c79.png",NHK G TOKYO
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/NfQnfsW8/ezgif-79a2f2e1a4a32c79.png",NHK G OSAKA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/2ykxm6V1/ezgif-76aeb4fd67c72afb.png",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/Zndfq5Sq/ezgif-2282a30d11c88934.png",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/ZKNrXNwF/ezgif-25279f6db83a01c0.png",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/pdfcv7qt/nippon-tv-jp.png",NITTELE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-nippon-tv-jp.png",BS NITTELE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",NITTELE G+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/T2kHNSzM/ezgif-3-859b6fe546.png",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/hGGYgMzh/ezgif-7e51f7310c043ec9.png",TBS NEWS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/6pbXmC3z/ezgif-6-c4c62c66d9.png",FUJI TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_fuji.png",BS FUJI
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/3Ncn9HJd/fuji-tv-next.png",FUJI TV NEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-asahi-jp.png",TV ASAHI
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_asahi.png",BS ASAHI
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/vH3F45WM/ezgif-6-b8cd08b927.png",TELETO
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/N0THfThG/ezgif-6ff77eec36ed0802.png",BS TELETO
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/K8V9TZLv/ezgif-4abbde9fad9f9.png",TOKYO MX
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/gkcDnSTj/ezgif-7fc96b4061b8c5d9.png",MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/sg8mZTqz/ezgif-2-840ac6172c.png",6ABC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/HLS20QcF/ezgif-75c482e2da9c1c5c.png",8KANTELE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/Vshqkfn0/ezgif-77036a7467d88760.png",YTV°
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/qB6tQ86c/ezgif-77682f0458cf47a0.png",TVO 7
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/2Sq33Gnn/ezgif-2-ff3bb0b118.png",SUN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/s2c3cD7W/animax-jp.png",ANIMAX JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j-sports-1-jp.png",J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j-sports-2-jp.png",J SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j-sports-3-jp.png",J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j-sports-4-jp.png",J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf-network-jp.png",GOLF NETWORK
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/yYbg1DHs/ezgif-7bc79c4b91703ea2.png",GREEN CHANNEL
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png",SKY A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png",GAORA SPORTS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/VNNJgHbB/ezgif-8b5f8bb2b64042d5.png",BS10 PREMIUM
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png",WOWOW CINEMA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png",WOWOW PRIME
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png",WOWOW LIVE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/bJGN8jgZ/ezgif-47ac5d8b2d5dc88b.png",DISNEY CHANNEL JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/1tqqg6pz/ezgif-72b1bcb6a63b6698.png",SPACE SHOWER TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/gJtGy4Q8/ezgif-66f3ede521dabf8d.png",J:COM BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png",JIDAIGEKI SENMON CHANNEL
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png",HOME DRAMA CHANNEL
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_japan_tv.png",MUSIC JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/RhhyRd9W/kidsstation.png",KIDS STATION
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png",DISCOVERY JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/C1N605xJ/ezgif-8555b7b37bf77e14.png",HISTORY JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/zvGZSh7s/ezgif-2dcbfe21e36f2e9c.png",NATIONAL GEOGRAPHIC JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tabi_channel.png",TABI CHANNEL
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/65m2rztL/kayo-pops-jp.png",KAYO POPS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png",MOVIE PLUS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/hjxcK4BL/ezgif-10ac70a3f04a76f8.png",BBC JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png",CNN J
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/Dw13nxbf/ezgif-116532a95cd5d013.png",MTV JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/MTNN9RGp/ezgif-77b4010a614c76fe.png",JOSEI CHANNEL LALA TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png",FAMILY GEKIJYO
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mondo_tv_jp.png",MONDO TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png",EISEI GEKIJO
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png",NIHON EIGA SENMON CHANNEL
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://i.postimg.cc/L4Y17Nfh/ezgif-2-1b576c2a7f.png",ANIMAL PLANET JAPAN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png",TSURI VISION
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",TOEI CH.
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+
+#EXTINF:-1 group-title="SHAREEXT@ JAPANES || TELEVISION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_ginga.png",CHANNEL GINGA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/asB5w3v.png" group-title="SHAREEXT@THAiLandTv", DLTV 13
 https://cdn-live.dltv.ac.th/dltv13.m3u8
