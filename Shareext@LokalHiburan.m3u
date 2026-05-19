@@ -220,6 +220,36 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Indosiar (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Sctv (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=sctv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Rcti (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=rcti
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Mnctv (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=mnc
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Tvone (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvone
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Antv (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=antv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Transtv (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=transtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Trans7 (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=trans-7
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Jtv (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=jtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Daai tv (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=daai
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Kompastv (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=kompas
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Tvri (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvri
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", MDtv (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=net
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Metrotv (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=metro
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Indosiar (udp)
 http://202.169.224.202:8800/udp/239.9.1.25:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION", Sctv (udp)
@@ -300,6 +330,33 @@ http://202.169.224.202:8800/udp/239.9.1.24:1234
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo signature (m'sia)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-signature
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo family (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-family
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo hits (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Cinemax (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Axn (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=axn
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Thrill (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=thrill
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", CCM (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=celestial
+#EXTINF:-1 tvg-id="101.astro" tvg-name="TVN HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvJuVz0Vh2rNO2lypfG57MVtVTw6E-EVvk14pgiFVLwnu2dUnXIxMFlB8AbBJpTAS94Gb18M4h3RydamQltV4nrTcG8fWNvmJ0eTsPfvbC0e0fGX0rF-V1ZHvc1AAp4CmNw.png" group-title="SHAREEXT@ DENZ TV",TVN HD (m"sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvn
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV", tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png",LOTUS MACAU
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
 
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="SHAREEXT@ DENZ TV",tvN Movies(trans2)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
@@ -602,6 +659,267 @@ https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/nrPHX66g/ezgif-6-a457ded6d0.png",RCTI
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=665&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=870&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/FH27kRmG/ezgif-623db7dff0860531.png",GTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=778&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=778&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/630YHFpy/inews-id.png",INEWS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=5409&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-drama-id.png",CITRA DRAMA
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 15; itel S688LN Build/AP3A.240905.015.A2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=386eb62b9787c4fce02eac827ca8c72d:51c053c2760a769ff3e9c5e5b521f8f1
+https://bosstv.asia/yabostv/21179.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/fTrpMLRx/ezgif-756810558f164e90.png",CITRA PLUS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21289&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21289&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/CMGv5BCF/trans-tv-id.png",TRANS TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=733&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=733&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/qvRQ11Pv/trans-7-id.png",TRANS 7
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=734&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=734&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6685&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6685&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png",*CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17938&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6686&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png",*CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17939&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png",CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6786&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png",*CHAMPIONS TV 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=19404&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-5-id.png",CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9182&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-6-id.png",CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9183&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-fight-id.png",CHAMPIONS FIGHT
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=20216&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=20216&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-golf-1-id.png",CHAMPIONS GOLF 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=18189&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=18189&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-golf-2-id.png",CHAMPIONS GOLF 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=18190&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=18190&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier_league_tv_uk.png",PREMIER LEAGUE TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=9353&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/HnLRbbCc/bein-sports-1-qa-fr.png",*BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17884&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17884&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/gkn1JysF/bein-sports-2-qa.png",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17875&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/pdtSqwHV/bein-sports-3-qa.png",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6317&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png",SPOTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17139&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17139&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png",SPOTV2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17140&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/vv/voli-tv-id.png",VOLI TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=5073519&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=5076785&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-drama-id.png",CITRA DRAMA
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=21179&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=21179&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png",TVN
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6362&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6362&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",ROCK ACTION
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=8121&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=8121&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/5N8rZD9Y/ezgif-4dcca393774b6c6a.png",TV5 MONDE
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=17278&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=17278&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/CKhgsmfp/ezgif-30aa13ebee312e5a.png",BIZNET ADVENTURE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/90RVq0wW/ezgif-3a521e94f8a3146f.png",BIZNET LIFESTYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
+#EXTVLCOPT:http-origin=http://www.biznetvideo.net
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=ZGw2r-CvzSlCW2-mTyu97hp8bHZXc9LY43O5moeKhLM1ppWpWrh6ZoIHFlbN75DU
 
 #EXTINF:-1 group-title="SHAREEXT@ VIDIO_" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV (VD)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -1872,7 +2190,38 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
 
 
 
-
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TV_1 (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv1
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TV_2 (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv2
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TV_3 (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv3
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", NTV_7 (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=ntv7
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", 8_TV (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=8tv
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", TV_9 (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tv9
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", AOD (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=aod
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", AEC (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=aec
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", RIA (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=ria
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", PRIMA (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=prima
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", OASIS (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=oasis
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", CITRA (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=citra
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", RANIA (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=rania
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", AURA (r)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=aura
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", CERIA (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=ceria
+#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-logo='https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png", AWANI (r) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=awani
 
 #EXTINF:-1 tvg-name="金光布袋戏" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金光布袋戏.png" group-title="SHAREEXT@Television/MY/ASTRO",Jin Guang Puppet Show
 http://o11.163189.xyz/stream/live/jgbdx/
