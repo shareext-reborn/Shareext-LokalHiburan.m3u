@@ -317,26 +317,26 @@ http://202.169.224.202:8800/udp/239.9.1.24:1234
 
 
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBO" group-title="SHAREEXT@ DENZ TV" tvg-logo="https://iili.io/Ju79f8g.png",HBO (inditv)
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBOHits" group-title="SHAREEXT@ DENZ TV" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits (inditv)
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo (m'sia) 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo signature (m'sia)
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-signature
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo family (m'sia) 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-family
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo hits (m'sia) 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-hits
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Cinemax (m'sia) 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=cinemax
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Axn (m'sia) 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=axn
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Thrill (m'sia) 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=thrill
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", CCM (m'sia) 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=celestial
-#EXTINF:-1 tvg-id="101.astro" tvg-name="TVN HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvJuVz0Vh2rNO2lypfG57MVtVTw6E-EVvk14pgiFVLwnu2dUnXIxMFlB8AbBJpTAS94Gb18M4h3RydamQltV4nrTcG8fWNvmJ0eTsPfvbC0e0fGX0rF-V1ZHvc1AAp4CmNw.png" group-title="SHAREEXT@ DENZ TV",TVN HD (m"sia) 
-https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvn
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBOFamily" group-title="SHAREEXT@ DENZ TV" tvg-logo="https://iili.io/Ju79otR.png",HBO Family (inditv)
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="HBOSig" group-title="SHAREEXT@ DENZ TV" tvg-logo="https://iili.io/Ju79IMN.png",HBO Signature (inditv)
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-id="Cinemax" group-title="SHAREEXT@ DENZ TV" tvg-logo="https://iili.io/Ju79znp.png",Cinemax (inditv)
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
 
 #EXTINF:-1 group-title="SHAREEXT@ DENZ TV", tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png",LOTUS MACAU
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -364,6 +364,19 @@ https://fta2-cdn-flr.visionplus.id/out/v1/096d5cf064294e7ea3a7f59ee2899669/index
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="SHAREEXT@ DENZ TV",TVN (VS+) 
 https://fta1-cdn-flr.visionplus.id/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd 
  
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="SHAREEXT@ DENZ TV",K-PLUS (inditv)
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://i.postimg.cc/4Ng1CfDn/ezgif-6e2eee0f6f5939.png",TVN (vd) 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=6362&type=drm
+https://ratuvidio.adptv.workers.dev/index.mpd?id=6362&type=dash
+
 #EXTINF:-1 tvg-id="101.astro" tvg-name="TVN HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvJuVz0Vh2rNO2lypfG57MVtVTw6E-EVvk14pgiFVLwnu2dUnXIxMFlB8AbBJpTAS94Gb18M4h3RydamQltV4nrTcG8fWNvmJ0eTsPfvbC0e0fGX0rF-V1ZHvc1AAp4CmNw.png" group-title="SHAREEXT@ DENZ TV",TVN HD (Ogie) 
 http://ogietv.biz.id:80/aqin/aqin168/1400.ts
 #EXTINF:-1 tvg-id="101.astro" tvg-name="Tvn Movies HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvOQxg-Y5LD1E7ybrkrYtdLg4gkLVRAKUTXm4bvr_VNxKL7UXvF9fKdBmN13Y9hiBjP7HCr-emcZWIFSfbmjMQ_1At8iixxVsVQrXsEh2OY85byQiMUepwxzfdGRBpPeWBw.png" group-title="SHAREEXT@ DENZ TV",TvnMovies HD (Ogie) 
@@ -400,6 +413,49 @@ http://103.148.44.38:8000/play/a01b/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
 https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mediampd/KBSWorldHD.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://i.postimg.cc/wjDq1kBW/one-in.png",ONE (mana) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/OneHD/index.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-entertainment-sg.png",ROCK ENTERTAINMENT (mana) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/RockEntertainment/index.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rock-action-sg.png",ROCK ACTION (mana) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/RockAction/index.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://i.postimg.cc/yYRqzGCx/ezgif-78bb10bca9ae95.png",GLOBAL TREKKER (mana) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/GlobalTrekker/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo signature (m'sia)
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-signature
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo family (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-family
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Hbo hits (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=hbo-hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Cinemax (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=cinemax
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Axn (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=axn
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", Thrill (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=thrill
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@ DENZ TV", CCM (m'sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=celestial
+#EXTINF:-1 tvg-id="101.astro" tvg-name="TVN HD" tvg-logo="http://ogietv.biz.id:80/images/41XrJW_rFnTScKiHhnyTkQuOes23-0Jm5fBjqlIAbVeaqSAKcBQctvWpp0tMy8NYjfn8b3q3uW29JYUn3kfsvJuVz0Vh2rNO2lypfG57MVtVTw6E-EVvk14pgiFVLwnu2dUnXIxMFlB8AbBJpTAS94Gb18M4h3RydamQltV4nrTcG8fWNvmJ0eTsPfvbC0e0fGX0rF-V1ZHvc1AAp4CmNw.png" group-title="SHAREEXT@ DENZ TV",TVN HD (m"sia) 
+https://rakyattv.my.id/donate/stream.php/.m3u8?id=tvn
 
 #EXTINF:-1 group-logo="https://c8.alamy.com/comp/2P82968/cinema-movie-time-3d-vector-directors-chair-camera-lighting-and-megaphone-2P82968.jpg" tvg-url="https://bit.ly/AstroEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfguXCrrRxsqWxVxUqe-SEEv-mhg9ehi0Rw&s" group-title="SHAREEXT@ DENZ TV",HBO-NO SUB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -444,6 +500,18 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="GALAXYPremium.id" tvg-name="GALAXY Premium.id" tvg-logo="https://mimipipi22.github.io/logo/movies/galaxypremium.jpg" group-title="SHAREEXT@ DENZ TV",GALAXY PREMIUM (ott)
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://i.postimg.cc/dtHdpBFF/ezgif-728d64a21c1dd42b.png",SCTV (VD)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=204&type=dash
+
+#EXTINF:-1 group-title="SHAREEXT@ DENZ TV" tvg-logo="https://i.postimg.cc/KvbHDrcf/indosiar-id.png",INDOSIAR (VD)
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="SHAREEXT@ DENZ TV", MY CINEMA EUROPA
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
