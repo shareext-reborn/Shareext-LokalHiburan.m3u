@@ -3741,12 +3741,8 @@ http://120.138.14.16:8080/hls/tamilmagantv/index.m3u8
 https://apis.avmediawork.in/tvhls/rocktv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", MTV
 https://stream.iplive.xyz/mtv/mtvhd/index.m3u8?token=zB3NfXUXshSpJ3
-#EXTINF:-1tvg-id=""tvg-logo=""group-title="ShareExt@TAMIL_television",GaneshTv
-https://live.thendralcloud.in/ganeshtvlive/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", Emperor TV
 https://rtmp.bmlive.net/bms/emperortv/index.m3u8
-#EXTINF:-1tvg-id=""tvg-logo=""group-title="ShareExt@TAMIL_television",thendraltv
-https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television", Urchagam TV
 https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ShareExt@TAMIL_television",Tamil Aaram TV
@@ -3755,10 +3751,6 @@ https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV
 https://galaxyott.live//hls//suryatv.m3u8
 #EXTINF:-1  tvg-name="" group-title="ShareExt@TAMIL_television" tvg-logo="https://play-lh.googleusercontent.com/ZM9c5byu9C9Xv7oeGbIyVgDQsDtx5L-gNIKpfYeomlCRDoIAjOzOhp67wP2Ggu7JvAY=w240-h480-rw",Ramya TV
 http://brightmeltech.in/ramyatv/ramyatv.m3u8
-#EXTINF:-1  tvg-name="" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257505016823489526479014.png",GSJK Tv
-http://brightmeltech.in/gsjktv/gsjktv.m3u8
-#EXTINF:-1  tvg-name="" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257158735407588855150609.png",Raja Tv
-http://brightmeltech.in/rajatv/rajatv.m3u8
 #EXTINF:-1  tvg-name="Akash Tv" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/03/20240328_0707478441275345469539566.png",Akash Tv
 https://account2.livebox.co.in/AkashTvhls/live.m3u8
 #EXTINF:-1  tvg-name="" group-title="ShareExt@TAMIL_television" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240402_0244113518845900804817006.png",Thalaa Tv
@@ -3776,16 +3768,12 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/blacksheep/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg"  group-title="ShareExt@TAMIL_television",Zee Tamil
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud6Ndm0VTPY3sMRA7Nc92puG7t0pmT9NcDg&usqp=CAU"  group-title="ShareExt@TAMIL_television",Imayam TV
-https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZREBaXvTuwO_HUSLwLJ0DEU2Vx4eKf-HEsURqbOMSM=s900-c-k-c0x00ffffff-no-rj"  group-title="ShareExt@TAMIL_television",Polimer News
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/samugammedia-storage/video-samugamstorage/2022/03/22a7c731-samugam-tv-logo.png" group-title="ShareExt@TAMIL_television",Samugam TV
 https://ca.streamjo.com/live/samugam.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNgU7NF54IVYt70g2EkiPIAjeB7V_kYcY3jV0uEPsqbKOdPXdhQRR6YBDVj9kqiiWswD0&usqp=CAU" group-title="ShareExt@TAMIL_television",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="ShareExt@TAMIL_television",Tamil Vision TV
-https://live.tamilvision.tv/TVI/HD/playlist.m3u8
 
 
 
