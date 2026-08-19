@@ -61,12 +61,12 @@ https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-327770703000000
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV (v+) 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=2.play
 ###KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=2
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-logo="https://i.postimg.cc/9FXvjY3M/mnc-id-tv.png",MNCTV (R+) 
 #EXTVLCOPT:http-user-agent=android-R+
@@ -591,7 +591,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctvw.jpg" group-title="SHAREEXT@ LIVE TV",MNCTV WORLD (V+) 
 https://d2tjypxxy769fn.cloudfront.net/out/v1/52f468e951c14c6ba80d4d31c833fce6/index.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg" group-title="",GTV (V+)
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg" group-title="SHAREEXT@ LIVE TV",GTV (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
@@ -1912,6 +1912,7 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
@@ -1921,6 +1922,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
@@ -1930,6 +1932,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e77
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
@@ -1939,6 +1942,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e82
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
@@ -1948,6 +1952,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e64
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
@@ -1957,6 +1962,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
 
@@ -1966,6 +1972,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
@@ -1975,6 +1982,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd
 
@@ -1984,6 +1992,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
@@ -1993,6 +2002,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc76
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
@@ -2002,6 +2012,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 
@@ -2011,6 +2022,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e017168410
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 ##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd
 
@@ -2019,7 +2031,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e54
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9359238f/manifest.mpd
 
@@ -2028,7 +2041,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6df9
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
@@ -2037,7 +2051,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
 
@@ -2046,7 +2061,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
@@ -2055,7 +2071,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
@@ -2064,7 +2081,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce016658680
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
 
@@ -2073,7 +2091,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857f48ecd2017f6ec01
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
@@ -2082,7 +2101,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc512
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd
 
@@ -2091,7 +2111,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd
 
@@ -2099,6 +2120,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a42430173142e2
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
@@ -2109,7 +2131,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_v0ahj8gp/banner_hdpi.jpg" group-title="SHAREEXT@ CUBMU || TRANSVISION",HBO Family
@@ -2117,7 +2139,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fb
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
@@ -2126,7 +2149,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
@@ -2135,7 +2159,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
@@ -2144,7 +2169,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
@@ -2153,7 +2179,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
@@ -2162,7 +2189,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
@@ -2171,7 +2199,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
 
@@ -2180,7 +2209,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
@@ -2189,7 +2219,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
@@ -2198,7 +2229,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
 
@@ -2207,7 +2239,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d017032d02
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd
 
@@ -2216,7 +2249,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729ce8f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd
 
@@ -2225,7 +2259,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017321f12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
 
@@ -2234,7 +2269,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e375
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c95db2/manifest.mpd
 
@@ -2243,7 +2279,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
@@ -2252,7 +2289,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d017034201
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 
@@ -2261,7 +2299,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd
 
@@ -2270,7 +2309,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
 
@@ -2279,7 +2319,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685730a4243017321f35
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
@@ -2288,7 +2329,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd
 
@@ -2297,7 +2339,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cbde
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
@@ -2306,7 +2349,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
@@ -2315,7 +2359,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
 
@@ -2324,7 +2369,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
@@ -2333,7 +2379,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
@@ -2342,7 +2389,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
@@ -2351,7 +2399,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
@@ -2360,7 +2409,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
 
@@ -2369,7 +2419,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd
 
@@ -2378,7 +2429,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc46
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3ce05d3e/manifest.mpd
 
@@ -2387,7 +2439,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017efbaa3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
 
@@ -2396,7 +2449,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d456
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018456047dc34366/manifest.mpd
 
@@ -2405,7 +2459,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
@@ -2414,7 +2469,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6858119921801816b52686d5e62/manifest.mpd
 
@@ -2423,7 +2479,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6858119921801816b526
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
@@ -2432,7 +2489,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
 
@@ -2441,7 +2499,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
 
@@ -2450,7 +2509,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
 
@@ -2459,7 +2519,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
@@ -2468,7 +2529,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
 
@@ -2477,7 +2539,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060aab
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
@@ -2486,7 +2549,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68582449a2e018259700
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd
 
@@ -2495,7 +2559,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858119921801816b535
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845601ffcb4364/manifest.mpd
 
@@ -2504,7 +2569,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd
 
@@ -2513,7 +2579,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68582449a2e018259716
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd
 
@@ -2522,7 +2589,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a6d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd
 
@@ -2531,7 +2599,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0642d
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e334101575/manifest.mpd
 
@@ -2540,7 +2609,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e33
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd
 
@@ -2549,7 +2619,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c86e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd
 
@@ -2558,7 +2629,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd
 
@@ -2567,7 +2639,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d06400
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd
 
@@ -2576,7 +2649,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856f08326c016f0dbdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd
 
@@ -2585,7 +2659,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857e04fca5017f3100b
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f556faa7a31b6/manifest.mpd
 
@@ -2594,7 +2669,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f556fa
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd
 
@@ -2603,7 +2679,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c846
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd
 
@@ -2612,7 +2689,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd
 
@@ -2621,7 +2699,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417e
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
@@ -2630,7 +2709,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd
 
@@ -2639,7 +2719,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c68571b3914b01720e7ff
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
@@ -2648,7 +2729,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c68582449a2e018259777
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a48a3d55/manifest.mpd
 
@@ -2657,7 +2739,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6858262bb8001827d52a
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1fd0a55/manifest.mpd
 
@@ -2666,7 +2749,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5be61ef3/manifest.mpd
 
@@ -2675,7 +2759,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b8d2390016b9c6a5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
@@ -2684,7 +2769,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856b6088c3016b87d55
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
@@ -2693,7 +2779,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0dd33c1c/manifest.mpd
 
@@ -2702,7 +2789,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ceb0
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
@@ -2711,7 +2799,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6857fe540a1018060a43
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agen"like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729d4068d13c20/manifest.mpd
 
@@ -2720,7 +2809,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729d406
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
 
@@ -2729,7 +2819,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
@@ -2738,7 +2829,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff049018455f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
@@ -2747,7 +2839,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da299e0b56/manifest.mpd
 
@@ -2756,7 +2849,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a68542f9/manifest.mpd
 
@@ -2765,7 +2859,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6857e04fca5017e9052a
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334acaa90393/manifest.mpd
 
@@ -2774,7 +2869,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334ac
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
@@ -2783,7 +2879,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
 
@@ -2792,7 +2889,8 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
-##KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+###KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
@@ -2804,17 +2902,19 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 
 
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="SHAREEXT@ VISION•PLUS",Soccer Channel
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=115.play
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id//
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=112.play
@@ -2822,8 +2922,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd 
 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2832,59 +2933,65 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+###KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=114.play
-#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
+###KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
 #EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="SHAREEXT@ VISION•PLUS",Sportstars 3 ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+###KODIPROP:inputstream.adaptive.license_type=clearkey
+###KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=205.play
 #EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="SHAREEXT@ VISION•PLUS", SPORTSTARS 4 ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SHAREEXT@ VISION•PLUS", beIN Sports 1
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=122.play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SHAREEXT@ VISION•PLUS", beIN Sports 2
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=123.play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:-1 tvg-url="https://bit.ly/AstroEpg" tvg-id="beINSports3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SHAREEXT@ VISION•PLUS",beIN Sports 3
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=124.play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=125.play
@@ -2892,9 +2999,10 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=126.play
@@ -2902,34 +3010,38 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=1.play
 #EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="SHAREEXT@ VISION•PLUS",RCTI HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=2.play
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="SHAREEXT@ VISION•PLUS",MNC TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=3.play
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="SHAREEXT@ VISION•PLUS",GTV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+###KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2937,8 +3049,9 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="SHAREEXT@ VISION•PLUS",TransTV HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+###KODIPROP:inputstream.adaptive.license_key=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2946,31 +3059,34 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="SHAREEXT@ VISION•PLUS",Trans7 HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
 
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="MDTV.id" group-title="SHAREEXT@ VISION•PLUS" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/512px-MDTV_logo.svg.png",MDTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+####KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="SHAREEXT@ VISION•PLUS",Kompas TV HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
+###KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="SHAREEXT@ VISION•PLUS" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+###KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+###KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 
