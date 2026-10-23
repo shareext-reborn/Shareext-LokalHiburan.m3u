@@ -5,6 +5,30 @@ https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D8WHHTG/shareext-tvku-0nline.jpg" group-title="ShareExt@Relax",WELCOME@_SHAREEXT@!!!!
 https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVZdVBa.jpeg" group-title="Shareext@LOKAL_ID", Tribunnews.Com
+https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH16ap1.jpeg" group-title="Shareext@LOKAL_ID", CNBC Indonesia
+https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PfH7DFq.jpeg" group-title="Shareext@LOKAL_ID", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WZ5h0LV.jpeg" group-title="Shareext@LOKAL_ID",Trans TV 
+https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w26855752598_b744100_sleng.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvICauU.jpeg" group-title="Shareext@LOKAL_ID",Trans 7
+https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w26855752592_b744100_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="Shareext@LOKAL_ID",TVN MOVIES (TRANS2)
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1 group-title="Shareext@LOKAL_ID" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png",MDTV (TRANS2)
@@ -1214,6 +1238,30 @@ http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="auto.salira.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="SHAREEXT@TEVE_DAERAH",••Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 
+#EXTVLCOPT:http-referrer=https://www.dens.tv 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqH3ju4SqhG-ydex6u2LmqPRpxsrBHvw6OQ&s" group-title="SHAREEXT@TEVE_DAERAH" tvg-id="Channel Jowo.id" tvg-name="Channel Jowo.id",Jowo Channel 
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8 
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Majalengka 
+#EXTVLCOPT:http-referrer=https://tv.garden/ 
+https://stream.staratv.id/hls/stream.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Jakarta 
+https://jakarta.staratv.id/hls/stream.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Bandung 
+#EXTVLCOPT:http-referrer=https://tv.garden/ 
+https://bandung.staratv.id/hls/0/stream.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Bojonegoro 
+#EXTVLCOPT:http-referrer=https://tv.garden/ 
+https://bojonegoro.staratv.id/hls/stream.m3u8 
+ 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="SHAREEXT@TEVE_DAERAH", STARATV Parahyangan 
+#EXTVLCOPT:http-referrer=https://tv.garden/ 
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -2381,8 +2429,6 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 https://cdn-live.dltv.ac.th/dltv05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgN81Zr.png" group-title="SHAREEXT@THAiLandTv", DLTV 10
 https://cdn-live.dltv.ac.th/dltv10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GhboFGt.png" group-title="SHAREEXT@THAiLandTv", Police TV
-https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lDBSTfE.png" group-title="SHAREEXT@THAiLandTv", DLTV 2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ITt6lY7.png" group-title="SHAREEXT@THAiLandTv", DLTV 12
@@ -2397,8 +2443,6 @@ https://cdn-live.dltv.ac.th/dltv03.m3u8
 https://cdn-live.dltv.ac.th/dltv07.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/topnews.png" group-title="SHAREEXT@THAiLandTv", Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", Yateem TV (New!)
-https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", WhiteChannel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="SHAREEXT@THAiLandTv", News1
@@ -2411,18 +2455,8 @@ https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="SHAREEXT@THAiLandTv", CNA
 https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4kwV5Sy.png" group-title="SHAREEXT@THAiLandTv", NBT 11 Northeast
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
 #EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/altv.png" group-title="SHAREEXT@THAiLandTv", ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="SHAREEXT@THAiLandTv", NBT 11 Central
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8hYQIxS.png" group-title="SHAREEXT@THAiLandTv", NBT 11 North
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/4K22fqQ.png" group-title="SHAREEXT@THAiLandTv", NBT 11 South
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wgd3zgpi68gasbr/coolchannel.png?dl=0" group-title="SHAREEXT@THAiLandTv", Cool Channel
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="SHAREEXT@THAiLandTv", Cable Channel 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
@@ -2430,6 +2464,101 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/26/1-2603011F2294W.png",THVL 1
+https://dethich.pw/thvl1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/26/1-2603011F4203Q.png",THVL 2
+https://dethich.pw/thvl2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/allimg/26/1-2603011F5490-L.png",THVL 3
+https://dethich.pw/thvl3/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/allimg/26/1-2603011F9460-L.png",THVL 4
+https://dethich.pw/thvl4/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://nettvpro.xyz/uploads/allimg/26/1-2603011G1520-L.png",THVL 5
+https://dethich.pw/thvl5/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/3w9mH7PW/ezgif-7144be457ddfb1dc.png",VTV 1
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+https://dethich.pw/vtv1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/bvdk848K/ezgif-7a63884689a8ad3a.png",VTV 2
+https://dethich.pw/vtv2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/qRsRdGtj/ezgif-79a52cda37f51a81.png",VTV 3
+https://dethich.pw/vtv3/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/hPjSCnrK/ezgif-7aa933237f2ef66a.png",VTV 4
+https://dethich.pw/vtv4/index.m3u8
+http://125.227.210.55:1090/VideoInput/play.ts
+
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/DyHKBX0B/ezgif-77e2c7217e938234.png",VTV 5
+https://dethich.pw/vtv5/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/ncqFjXPm/vtv-5-tay-nam-bo.png",VTV 5 TÂY NAM BỘ
+https://dethich.pw/vtv5tnb/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/nhZHvnyS/vtv-5-tay-nguyen.png",VTV 5 TÂY NGUYÊN
+https://dethich.pw/vtv5tn/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/6QhgJ2Wc/ezgif-7d79e52205b57e3b.png",VTV 6
+https://dethich.pw/vtv6/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/CKJPr3JL/ezgif-7f87ebf36c374f16.png",VTV 7
+https://dethich.pw/vtv7/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/GmjnrSzG/ezgif-7d461d5a3f50935d.png",VTV 8
+https://dethich.pw/vtv8/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/x1nBs3YG/ezgif-711d055bc53f50b3.png",VTV 9
+https://dethich.pw/vtv9/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/Y9Dxjc22/vtv-10.png",VTV 10
+https://dethich.pw/vtv10/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-1-vn.png",HTV1
+https://dethich.pw/htv1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-2-vn.png",HTV2
+https://dethich.pw/htv2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/7JSnwFJk/ezgif-26f35dff86eb4350.png",HTV3
+https://dethich.pw/htv3/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-4-vn.png",HTV4
+https://dethich.pw/htv4/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-5-bchannel-vn.png",HTV5
+https://dethich.pw/htv5/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-7-vn.png",HTV7
+https://dethich.pw/htv7/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-the-thao-vn.png",HTV THÊ THAO
+https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/hh/htv-9-vn.png",HTV9
+https://dethich.pw/htv9/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/dd/dong-nai-tv-1-vn.png",DN1 NRTV
+https://dethich.pw/dongnai1/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="http://www.lyngsat.com/logo/tv/dd/dong-nai-tv-2-vn.png",DN2 NRTV
+https://dethich.pw/dongnai2/index.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.postimg.cc/ZnnZ5T78/ezgif-2f736854ecac5d92.png",DN3 NRTV
+https://dethich.pw/dongnai3/index.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SCTV2-0.png/revision/latest?cb=20180627082740",SCTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+##https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/SCTV3.png/revision/latest?cb=20210819101244&path-prefix=vi",SCTV 3
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv3/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/SCTV4_logo_19-01-2023.png/revision/latest?cb=20230323071855&path-prefix=vi",SCTV 4
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/SCTV6.png/revision/latest?cb=20210220103413",SCTV 6
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/36/SCTV7_logo.png/revision/latest?cb=20220223142137&path-prefix=vi",SCTV 7
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SCTV8.png/revision/latest?cb=20220312144352",SCTV 8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv8/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f3/SCTV9.png/revision/latest/scale-to-width-down/200?cb=20210821040105&path-prefix=vi",SCTV 9
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d7/SCTV11_logo_2022.png/revision/latest?cb=20220428035154&path-prefix=vi",SCTV 11
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/SCTV12_logo.png/revision/latest/scale-to-width-down/220?cb=20201011030148",SCTV 12
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest?cb=20211211011126&path-prefix=vi",SCTV 13
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/09/SCTV14_logo_12-02-2026.png/revision/latest?cb=20260301113219&path-prefix=vi",SCTV 14
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/aa/SCTV16.png/revision/latest?cb=20210820043927&path-prefix=vi",SCTV 16
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ca/SCTV18.png/revision/latest?cb=20210820120952&path-prefix=vi",SCTV 18
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ef/SCTV19.png/revision/latest?cb=20240131141543&path-prefix=vi",SCTV 19
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
+#EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/SCTV20.png/revision/latest/scale-to-width-down/1200?cb=20210821042852&path-prefix=vi",SCTV 20
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wvmb38ns/shareext-vietnam-logo.jpg" group-title="SHAREEXT@Vietnam_television", BTV9
 https://freem3u.xyz/api/live/play.m3u8?vid=151
@@ -2579,7 +2708,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=194
 https://freem3u.xyz/api/live/play.m3u8?vid=195
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SHAREEXT@Vietnam_television" tvg-logo="https://i.ibb.co.com/VqNpntW/sctv2-hd.png",SCTV2
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-
 
 #EXTINF:-1 group-title="SHAREEXT@Vietnam_television" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -2741,8 +2869,6 @@ https://live.canthotv.vn/live/tv/chunklist.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION", 膼峄搉g Nai 1(မြန်မာ)
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION", 膼峄搉g Nai 2(မြန်မာ)
@@ -2791,6 +2917,177 @@ https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ckjzPJn/Myanmar-Share-Ext-Group.jpg" group-title="SHAREEXT@MYANMAR|LAOS|TELEVISION", Hmong TV Network (720p)(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/cc/celestial-movies-pinoy-hk.png",CELESTIAL MOVIES PINOY
+http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/pp/pinoy-box-office-ph.png",PBO
+http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/vv/viva-cinema-ph.png",VIVA CINEMA
+http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tagalized-movie-channnel-ph.png",TMC
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tfc_ph.png",TFC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:2c8306892361e3fba18cb142f31ec775
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/gg/gma.png",GMA TV
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/sXPdhcyT/ezgif-4003c49f2182bfcb.png",BILYONARYO CHANNEL
+http://136.239.158.18:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001278&contentid=ch00000000000000001278&videoid=ch00000090990000001124&recommendtype=0&userid=1747224050385&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I3AR71L33CXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/dtk6N0Zv/ezgif-47c4698403605e9d.png",SPOTLIGHT
+http://136.239.158.30:6610/001/2/ch00000090990000001134/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001281&contentid=ch00000000000000001281&videoid=ch00000090990000001134&recommendtype=0&userid=1790262524603&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MG695A5LWR8XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/gg/gtv-ph.png",GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/ll/living-asia-channel-ph.png",LIVING ASIA CHANNEL
+http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/aa/anc-ph.png",ANC
+http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/mm/myx-ph.png",MYX
+http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/2j1V8PQH/ezgif-2adaa8e5ceb206e6.png",CINE MO!
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/mm/metro-channel-ph.png",METRO CHANNEL
+http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/cc/cinema_one_ph.png",C1 CINEMA ONE
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/kk/kapamilya-channel-ph.png",KAPAMILYA CHANNEL
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/k4n9VYpw/ezgif-68830eb6e0e4d8f5.png",FASHION TV
+http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/7ZjCLxKY/ezgif-4c7f27fe7e30ef72.png",SOLAR FLIX
+http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/ss/solar_sports_network.png",SOLAR SPORTS
+http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-tv-ph.png",TAP TV
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-edge-ph.png",TAP EDGE
+http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-sports-ph.png",TAP SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-sports-ph.png",TAP SPORTS
+http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-movies-ph.png",TAP MOVIES
+http://136.239.159.20:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrqmX9tLke4aZIpUgreyOpNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1621837627360&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=DE8LQ2K74YXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tap-action-flix-ph.png",TAP ACTION FLIX
+http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/3wRmTkjM/ezgif-284086c957a0e63d.png",BLAST MOVIES
+http://roch.ph/bongao/bongao/168.m3u8
+http://roch.ph/bongao/bongao/5495.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/50YF3Xjn/ezgif-1f1d683e25eb70ec.png",PREMIER SPORTS
+http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+http://roch.ph/bongao/bongao/94.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/NfzvhL0M/ezgif-467c31194804a156.png",PREMIER SPORTS 2
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+http://roch.ph/bongao/bongao/93.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",PREMIER FOOTBALL
+http://roch.ph/bongao/bongao/5490.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/oo/one-ph-ph.png",ONE PH
+http://roch.ph/bongao/bongao/46.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/oo/one-sports-ph.png",ONE SPORTS
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+http://roch.ph/bongao/bongao/87.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/1XV4p2C0/ezgif-1f3a1ab54506ecd3.png",EDGE SPORTS
+http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/tt/tv-5-ph.png",TV 5 
+http://roch.ph/bongao/bongao/36.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/aa/a2z-ph.png",A2Z
+http://roch.ph/bongao/bongao/38.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/jj/jeepney-tv-ph.png",JEEPNEY TV
+http://roch.ph/bongao/bongao/39.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/aa/alltv-2-ph.png",ALLTV 2
+http://roch.ph/bongao/bongao/42.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/aa/anc-ph.png",ANC
+http://roch.ph/bongao/bongao/43.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/pp/peoples-tv-ph.png",PTV
+http://roch.ph/bongao/bongao/44.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/ii/ibc-13-ph.png",IBC 13
+http://roch.ph/bongao/bongao/48.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/dd/dzmm-teleradyo-ph.svg",DZMM
+http://roch.ph/bongao/bongao/49.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/nn/nba-tv-philippines-us-ph.png",NBA TV PHILIPPINES
+http://roch.ph/bongao/bongao/85.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/kk/knowledge-channel-ph.png",K CH KNOWLEDGE CHANNEL
+http://roch.ph/bongao/bongao/97.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/hh/hallypop-ph.png",HALLYPOP
+http://roch.ph/bongao/bongao/119.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/uu/untv-ph.png",UNTV
+http://roch.ph/bongao/bongao/155.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/nn/net-25-ph.png",NET 25
+http://roch.ph/bongao/bongao/156.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/oo/oras-ng-himala-ph.png",ORAS NG HIMALA
+http://roch.ph/bongao/bongao/157.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/ii/inc_tv_ph.png",INC TV
+http://roch.ph/bongao/bongao/159.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Rock_Manila_Logo_2023.png/revision/latest/scale-to-width-down/284?cb=20240316065316",RJ ROCK MNL
+http://roch.ph/bongao/bongao/166.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://www.createphilippines.com/folder_articles/AQVVUppILDe3lnZRqBYws12gFCMYVhabw3snfqTOU0PK9ZICbg.jpeg",BUKO
+http://roch.ph/bongao/bongao/5493.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/gg/gma-news-tv-ph.png",GMA NEWS TV
+http://roch.ph/bongao/bongao/5494.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="http://www.lyngsat.com/logo/tv/pp/pba_rush_ph.png",PBA RUSH
+http://roch.ph/bongao/bongao/5501.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/Fzg7cvg5/ezgif-2751b54ffa1a3cd9.png",EDGE SPORTS
+http://roch.ph/bongao/bongao/96.m3u8
+
+#EXTINF:-1 group-title="SHAREEXT@ PHILIPINES_CHANNEL" tvg-logo="https://i.postimg.cc/VNx6VvKy/ezgif-25ae2876d4caf39e.png",BILLIARD TV
+http://roch.ph/bongao/bongao/121.m3u8
+
 
 
 
