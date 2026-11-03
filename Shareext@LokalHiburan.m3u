@@ -993,6 +993,178 @@ https://tvratu.my.id/vid/index.mpd?id=12784&type=dash
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TRANS 7 HD 
+http://202.150.165.66:8088/play/801-Trans7/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TRANS TV HD
+http://202.150.165.66:8088/play/800-TransTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",ANTV
+http://202.150.165.66:8088/play/807-ANTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",AXN
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Al Bahza
+http://202.150.165.66:8088/play/709-AlBahza/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Al Jazeera
+http://202.150.165.66:8088/play/603-AlJazeera/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Al Quran Al Kareem
+http://202.150.165.66:8088/play/700-AlQuran/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Al Wafa Tareem
+http://202.150.165.66:8088/play/708-AlwafaTareem/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",AngelTV
+http://202.150.165.66:8088/play/710-AngelTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Arirang
+http://202.150.165.66:8088/play/610-Arirang/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",BTV
+http://202.150.165.66:8088/play/813-BTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",BaliTV
+http://202.150.165.66:8088/play/821-BaliTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Berita Satu
+http://202.150.165.66:8088/play/823-BeritaSatu/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Bioskop Indonesia
+http://202.150.165.66:8088/play/107-BioskopIndonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CCTV 4
+http://202.150.165.66:8088/play/330-CCTV4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CGTN
+http://202.150.165.66:8088/play/601-CGTN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CGTN Documentary
+http://202.150.165.66:8088/play/232-CGTNDoc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CNBC Asia
+http://202.150.165.66:8088/play/609-CNBCAsia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CNBC INDONESIA HD
+http://202.150.165.66:8088/play/803-CNBCIndonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CNN INDONESIA HD 
+http://202.150.165.66:8088/play/802-CNNIndonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",CNN International
+http://202.150.165.66:8088/play/600-CNNInter/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cartoon Network
+http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cartoon TV
+http://202.150.165.66:8088/play/207-CartoonTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cartoon TV Premium
+http://202.150.165.66:8088/play/209-CartoonTVPremium/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cartoonito
+http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Celestial Movies
+http://202.150.165.66:8088/play/108-Celestial/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Channel News Asia
+http://202.150.165.66:8088/play/602-ChannelNewsAsia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cinema World
+http://202.150.165.66:8088/play/105-CinemaWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Cinemax
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",DAAI
+http://202.150.165.66:8088/play/705-DAAI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",DW
+http://202.150.165.66:8088/play/604-DW/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Dunia Anak
+http://202.150.165.66:8088/play/202-DuniaAnak/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Dunia Lain
+http://202.150.165.66:8088/play/326-DuniaLain/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Eat N Go
+http://202.150.165.66:8088/play/325-EatnGo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Euronews
+http://202.150.165.66:8088/play/605-Euronews/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Fashion TV
+http://202.150.165.66:8088/play/306-FashionTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Fight TV
+http://202.150.165.66:8088/play/622-FightTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",France24
+http://202.150.165.66:8088/play/606-France24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",GTV
+http://202.150.165.66:8088/play/813-GTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Gaming  TV
+http://202.150.165.66:8088/play/305-GamingTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Garuda TV
+http://202.150.165.66:8088/play/824-GarudaTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Golf+
+http://202.150.165.66:8088/play/621-GolfPlus/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",HBO
+http://202.150.165.66:8088/play/100-HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",HBO Family
+http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",HBO Hits
+http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",HBO Signature
+http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Indosiar
+http://202.150.165.66:8088/play/809-Indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Insert
+http://202.150.165.66:8088/play/324-Insert/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Jak TV
+http://202.150.165.66:8088/play/819-JakTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Jowo TV
+http://202.150.165.66:8088/play/327-Jowo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",KBS World
+http://202.150.165.66:8088/play/323-KBSWorld/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Khazanah
+http://202.150.165.66:8088/play/701-Khazanah/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Knowledge+
+http://202.150.165.66:8088/play/233-Knowledge/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",KompasTV
+http://202.150.165.66:8088/play/810-KompasTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",MDTV
+http://202.150.165.66:8088/play/817-MDTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",MNC
+http://202.150.165.66:8088/play/812-MNCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",MOJI
+http://202.150.165.66:8088/play/815-MOJI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",MetroTV
+http://202.150.165.66:8088/play/805-MetroTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Musik Indonesia
+http://202.150.165.66:8088/play/328-MusikIndonesia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",NHK
+http://202.150.165.66:8088/play/331-NHK/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Nabawi TV
+http://202.150.165.66:8088/play/707-Nabawi/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",ONE Tv
+http://202.150.165.66:8088/play/395-ONETv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",PSJTV
+http://202.150.165.66:8088/play/625-PSJTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Pijar TV
+http://202.150.165.66:8088/play/706-PijarTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",RCTI
+http://202.150.165.66:8088/play/811-RCTI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",RTV
+http://202.150.165.66:8088/play/818-RTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Russia Today
+http://202.150.165.66:8088/play/607-RussiaToday/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",SCTV
+http://202.150.165.66:8088/play/808-SCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",SalingSapa TV
+http://202.150.165.66:8088/play/704-SalingSapa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Sports TV
+http://202.150.165.66:8088/play/623-SportsTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TV5 Monde
+http://202.150.165.66:8088/play/304-TV5Monde/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TV9
+http://202.150.165.66:8088/play/703-TV9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TVMu
+http://202.150.165.66:8088/play/702-TVMu/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TVRI
+http://202.150.165.66:8088/play/814-TVRI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TVRI Sport
+http://202.150.165.66:8088/play/624-TVRISport/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Thrill
+http://202.150.165.66:8088/play/109-Thrill/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",TvOne
+http://202.150.165.66:8088/play/806-TvOne/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",WION
+http://202.150.165.66:8088/play/wion-113/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Warner  TV
+http://202.150.165.66:8088/play/302-WarnerTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",Zee Bioskop
+http://202.150.165.66:8088/play/110-ZeeBioskop/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",jtv
+http://202.150.165.66:8088/play/820-jtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",tVN
+http://202.150.165.66:8088/play/321-tvN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/GQvdkZGm/shareext-transvision-seru.jpg" group-title="SHAREEXT@ TRANSVISION•PLAYLIST",tvN Movies
+http://202.150.165.66:8088/play/106-tvNMovies/index.m3u8
+
+
+
+
+
+
 
 
 
