@@ -348,7 +348,6 @@ https://proxy-v.rctiplus.id/live/web/galaxy/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Studio.Universal.id" tvg-name="Studio Universal" tvg-logo="https://mimipipi22.github.io/logo/movies/studiouniversal.jpg" group-title="SHAREEXT@ LIVE TV",STUDIO UNIVERSAL (V+)
-https://proxy-v.rctiplus.id/live/web/studiouniversal/index.m3u8
 ##https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -358,7 +357,7 @@ https://proxy-v.rctiplus.id/live/web/studiouniversal/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Rock.Action.id" tvg-name="ROCK Action" tvg-logo="https://mimipipi22.github.io/logo/movies/rockaction.jpg" group-title="SHAREEXT@ LIVE TV",ROCK ACTION (V+)
 https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8
-##https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -425,7 +424,7 @@ https://proxy-v.rctiplus.id/live/web/axn/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="SHAREEXT@ LIVE TV",ROCK ENTERTAINMENT (V+)
-https://proxy-v.rctiplus.id/live/web/rockentertainment/index.m3u8
+https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8
 ##https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -496,7 +495,7 @@ https://proxy-v.rctiplus.id/live/web/animax/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Entertainment.id" tvg-name="Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/entertainment.jpg" group-title="SHAREEXT@ LIVE TV",ENT (V+)
-https://proxy-v.rctiplus.id/live/web/entertainment/index.m3u8
+https://proxy-v.rctiplus.id/live/web/mncent/index.m3u8
 ##https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 #EXTVLCOPT:http-referrer=https://visionplus.id/
